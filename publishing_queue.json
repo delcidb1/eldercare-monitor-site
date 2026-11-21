@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-21T21:18:21Z",
+  "generated_at": "2026-11-21T22:30:37Z",
   "post_date": "2026-11-21",
   "posts": [
     {
@@ -39,10 +39,12 @@
       "series_id": "care-facility-checklist",
       "series_title": "Before You Choose",
       "caption_rendered": "BEFORE YOU CHOOSE\n\nBefore you tour a nursing home in Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, or Warren County, spend a few minutes on Care Compare. The free federal tool shows you each facility's star rating across three areas: health inspections, staffing levels, and quality measures. You can read the actual inspection reports from the past three years, see how many nurse hours per day each resident receives on average, check staff turnover rates, and find out whether Medicare has ever fined or penalized the facility. None of that shows up on a lobby tour. Use what you find online to form sharper questions when you walk in the door. Source: Medicare.gov Care Compare.\n\n#NursingHome #AssistedLiving #SeniorLiving #AgingParents #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
-      "approved": false,
-      "publish_to_site": false,
+      "approved": true,
+      "publish_to_site": true,
       "priority": 300,
-      "draft": true,
+      "draft": false,
+      "approved_at": "2026-11-21T22:30:37+00:00",
+      "approved_via": "email",
       "source_type": "evergreen",
       "post_source": "evergreen/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto_post.json",
       "slide_folder": "2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto",
@@ -68,21 +70,21 @@
       "instagram_caption": "BEFORE YOU CHOOSE\n\nBefore you tour a nursing home in Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, or Warren County, spend a few minutes on Care Compare. The free federal tool shows you each facility's star rating across three areas: health inspections, staffing levels, and quality measures. You can read the actual inspection reports from the past three years, see how many nurse hours per day each resident receives on average, check staff turnover rates, and find out whether Medicare has ever fined or penalized the facility. None of that shows up on a lobby tour. Use what you find online to form sharper questions when you walk in the door. Source: Medicare.gov Care Compare.\n\n#NursingHome #AssistedLiving #SeniorLiving #AgingParents #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
       "caption_sha256": "1c1543f461d811a2a93d30b64b2ec185863ef433c9cbfaca968c430eb2f76701",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": [
         "Saturday"
       ],
-      "eligible_today": false
+      "eligible_today": true
     }
   ],
   "total": 1,
-  "queued_count": 0,
+  "queued_count": 1,
   "published_count": 0,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }
