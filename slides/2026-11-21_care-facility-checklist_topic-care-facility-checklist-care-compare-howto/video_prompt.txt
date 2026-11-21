@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Care Compare)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Look up any nursing home before you visit. Check the 1-to-5 star rating: it combines health inspections, staffing, and quality measures in one score. Read the last three years of health inspection reports to see citations, what was wrong, and whether it was fixed. Check staffing: look for nurse hours per resident per day and staff turnover — more hours, less turnover is better. Look for any Medicare penalties — a fine or denied payment — listed on the facility's Care Compare page. Our verdict: why it helps. A quick Care Compare search before you visit can reveal inspection citations, low staffing, or Medicare penalties that a tour alone will not show. Full breakdown in the carousel - follow at eldercare underscore monitor for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #D97706 accent lighting looks at the
+camera and says: 'Look up any nursing home before you visit. A quick Care Compare search before you visit can reveal inspection citations, low staffing, or Medicare penalties that a tour alone will not show.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
