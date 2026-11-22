@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-11-22_weekly-recap",
+    "app": "This Week in Eldercare",
+    "doc": "This Week in Eldercare",
+    "post_type": "series",
+    "accent": "#60A5FA",
+    "headline": "NJ caregiver hub now live & Part B rises to $209.40 in 2027",
+    "subhead": "4 stories for families you may have missed",
+    "effective": "Nov 16\u201322, 2026",
+    "changes": [
+      "NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers.",
+      "CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292.",
+      "FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress.",
+      "FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults."
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "This week brings a new tool and important numbers: New Jersey opened a one-stop caregiver resource hub, and federal agencies updated the costs and fraud risks every older adult should know heading into 2027.",
+    "actions": [
+      "Book a free Medicare review with NJ SHIP: 1-800-792-8820",
+      "Check the pantry and medicine cabinet against this week's recalls",
+      "Look up a parent's nursing home on Medicare.gov Care Compare"
+    ],
+    "categories": [],
+    "source_doc": "NJ Care Compass weekly recap for Nov 16\u201322, 2026",
+    "date": "2026-11-22",
+    "slide_folder": "2026-11-22_weekly-recap",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_hook.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_outro.png"
+    ],
+    "published": false,
+    "post_source": "evergreen/2026-11-22_weekly-recap_post.json",
+    "stories": [
+      {
+        "line": "NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers.",
+        "teaser": "NJ caregiver hub now live",
+        "publisher": "NJ Insider / NJ Human Services",
+        "source_url": "https://www.insidernj.com/press-release/sherrill-administration-launches-caregiver-support-hub-giving-new-jersey-caregivers-a-one-stop-online-resource/",
+        "published": "2026-11-17",
+        "origin": "news"
+      },
+      {
+        "line": "CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292.",
+        "teaser": "Part B rises to $209.40 in 2027",
+        "publisher": "CMS",
+        "source_url": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles",
+        "published": "2026-11-17",
+        "origin": "news"
+      },
+      {
+        "line": "FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress.",
+        "teaser": "FTC: AI grandkid scam alert",
+        "publisher": "FTC",
+        "source_url": "https://scamwatchhq.com/grandpa-im-trouble-ftcs-new-grandkid-scam-warning-breakdown/",
+        "published": "2026-11-18",
+        "origin": "news"
+      },
+      {
+        "line": "FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults.",
+        "teaser": "FTC flags new VA benefit scams",
+        "publisher": "FTC",
+        "source_url": "https://scamwatchhq.com/va-benefits-scams-evolve-ftc-flags-three-new-tactics-targeting/",
+        "published": "2026-11-16",
+        "origin": "news"
+      }
+    ],
+    "effective_date": "2026-11-22",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto",
     "app": "Care Compare",
     "doc": "Before You Choose",
