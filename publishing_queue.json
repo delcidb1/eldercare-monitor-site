@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-22T00:40:02Z",
-  "post_date": "2026-11-21",
+  "generated_at": "2026-11-22T15:31:33Z",
+  "post_date": "2026-11-22",
   "posts": [
     {
       "id": "2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto",
@@ -77,14 +77,154 @@
       "post_days": [
         "Saturday"
       ],
-      "eligible_today": true
+      "eligible_today": false
+    },
+    {
+      "id": "2026-11-22_weekly-recap",
+      "date": "2026-11-22",
+      "effective": "Nov 16–22, 2026",
+      "app": "This Week in Eldercare",
+      "doc": "This Week in Eldercare",
+      "post_type": "series",
+      "accent": "#60A5FA",
+      "categories": [],
+      "cover_query": "newspaper coffee morning table",
+      "source_doc": "NJ Care Compass weekly recap for Nov 16–22, 2026",
+      "series_id": "weekly-recap",
+      "series_title": "This Week in Eldercare",
+      "headline": "NJ caregiver hub now live & Part B rises to $209.40 in 2027",
+      "subhead": "4 stories for families you may have missed",
+      "changes": [
+        "NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers.",
+        "CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292.",
+        "FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress.",
+        "FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults."
+      ],
+      "cover_lines": [
+        "NJ caregiver hub now live",
+        "Part B rises to $209.40 in 2027",
+        "FTC: AI grandkid scam alert",
+        "FTC flags new VA benefit scams"
+      ],
+      "watch": [
+        {
+          "date": "2026-11-30",
+          "line": "Social Security accounts show 2027 COLA notices in late November.",
+          "todo": "Log in to ssa.gov/myaccount to see your exact 2027 benefit amount before the paper notice arrives.",
+          "teaser": "Check COLA notice at SSA.gov",
+          "publisher": "Social Security Administration",
+          "source_url": "https://www.ssa.gov/blog/en/posts/2026-10-14.html"
+        },
+        {
+          "date": "2026-12-07",
+          "line": "Medicare Open Enrollment closes Dec 7; last day to switch plans.",
+          "todo": "Compare Part D and Advantage plans at Medicare.gov before the December 7 deadline.",
+          "teaser": "Medicare OE closes Dec 7",
+          "publisher": "SSA",
+          "source_url": "https://www.ssa.gov/news/en/advocates/2026-11-16.html"
+        },
+        {
+          "date": "2026-12-07",
+          "line": "NJ SHIP offers free counseling through Dec 7.",
+          "todo": "Call NJ SHIP at 1-800-792-8820 for free, unbiased Medicare plan help before Dec 7.",
+          "teaser": "Free NJ SHIP help thru Dec 7",
+          "publisher": "NPR / CMS",
+          "source_url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan"
+        }
+      ],
+      "edition": 1,
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "This week brings a new tool and important numbers: New Jersey opened a one-stop caregiver resource hub, and federal agencies updated the costs and fraud risks every older adult should know heading into 2027.",
+      "actions": [
+        "Book a free Medicare review with NJ SHIP: 1-800-792-8820",
+        "Check the pantry and medicine cabinet against this week's recalls",
+        "Look up a parent's nursing home on Medicare.gov Care Compare"
+      ],
+      "stories": [
+        {
+          "line": "NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers.",
+          "teaser": "NJ caregiver hub now live",
+          "publisher": "NJ Insider / NJ Human Services",
+          "source_url": "https://www.insidernj.com/press-release/sherrill-administration-launches-caregiver-support-hub-giving-new-jersey-caregivers-a-one-stop-online-resource/",
+          "published": "2026-11-17",
+          "origin": "news"
+        },
+        {
+          "line": "CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292.",
+          "teaser": "Part B rises to $209.40 in 2027",
+          "publisher": "CMS",
+          "source_url": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles",
+          "published": "2026-11-17",
+          "origin": "news"
+        },
+        {
+          "line": "FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress.",
+          "teaser": "FTC: AI grandkid scam alert",
+          "publisher": "FTC",
+          "source_url": "https://scamwatchhq.com/grandpa-im-trouble-ftcs-new-grandkid-scam-warning-breakdown/",
+          "published": "2026-11-18",
+          "origin": "news"
+        },
+        {
+          "line": "FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults.",
+          "teaser": "FTC flags new VA benefit scams",
+          "publisher": "FTC",
+          "source_url": "https://scamwatchhq.com/va-benefits-scams-evolve-ftc-flags-three-new-tactics-targeting/",
+          "published": "2026-11-16",
+          "origin": "news"
+        }
+      ],
+      "story_sources": [
+        "https://www.insidernj.com/press-release/sherrill-administration-launches-caregiver-support-hub-giving-new-jersey-caregivers-a-one-stop-online-resource/",
+        "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles",
+        "https://scamwatchhq.com/grandpa-im-trouble-ftcs-new-grandkid-scam-warning-breakdown/",
+        "https://scamwatchhq.com/va-benefits-scams-evolve-ftc-flags-three-new-tactics-targeting/"
+      ],
+      "window_start": "2026-11-16",
+      "window_end": "2026-11-22",
+      "caption_rendered": "THIS WEEK IN ELDERCARE · Nov 16–22, 2026\n\nWhat to watch in the next three weeks:\n📅 Nov 30: Social Security accounts show 2027 COLA notices in late November. (via Social Security Administration)\n📅 Dec 7: Medicare Open Enrollment closes Dec 7; last day to switch plans. (via SSA)\n📅 Dec 7: NJ SHIP offers free counseling through Dec 7. (via NPR / CMS)\n\nLast week's top stories for older adults and caregivers:\n1. NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers. (via NJ Insider / NJ Human Services)\n2. CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292. (via CMS)\n3. FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress. (via FTC)\n4. FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults. (via FTC)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to a sibling who helps with Mom or Dad.\n🔔 Follow @njcarecompass. One recap every Sunday, so you don't have to read 50 articles.\n\n#Caregiving #AgingParents #Medicare #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
+      "approved": false,
+      "publish_to_site": false,
+      "priority": 300,
+      "draft": true,
+      "source_type": "evergreen",
+      "post_source": "evergreen/2026-11-22_weekly-recap_post.json",
+      "slide_folder": "2026-11-22_weekly-recap",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-22_weekly-recap/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-22_weekly-recap/02_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-22_weekly-recap/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-22_weekly-recap/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-22_weekly-recap/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_hook.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "THIS WEEK IN ELDERCARE · Nov 16–22, 2026\n\nWhat to watch in the next three weeks:\n📅 Nov 30: Social Security accounts show 2027 COLA notices in late November. (via Social Security Administration)\n📅 Dec 7: Medicare Open Enrollment closes Dec 7; last day to switch plans. (via SSA)\n📅 Dec 7: NJ SHIP offers free counseling through Dec 7. (via NPR / CMS)\n\nLast week's top stories for older adults and caregivers:\n1. NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers. (via NJ Insider / NJ Human Services)\n2. CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292. (via CMS)\n3. FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress. (via FTC)\n4. FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults. (via FTC)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to a sibling who helps with Mom or Dad.\n🔔 Follow @njcarecompass. One recap every Sunday, so you don't have to read 50 articles.\n\n#Caregiving #AgingParents #Medicare #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
+      "caption_sha256": "e12bd0aaa167b3cbaf9f63552ee16f027fa71f09957f3da756fdfe6365ff02e7",
+      "published": false,
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
+      "post_days": [
+        "Sunday"
+      ],
+      "eligible_today": false
     }
   ],
-  "total": 1,
+  "total": 2,
   "queued_count": 1,
   "published_count": 0,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }

@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (This Week in Eldercare)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+NJ caregiver hub now live & Part B rises to $209.40 in 2027. NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers. CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292. FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress. FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults. Our verdict: worth knowing. This week brings a new tool and important numbers: New Jersey opened a one-stop caregiver resource hub, and federal agencies updated the costs and fraud risks every older adult should know heading into 2027. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #60A5FA accent lighting looks at the
+camera and says: 'NJ caregiver hub now live & Part B rises to $209.40 in 2027. This week brings a new tool and important numbers: New Jersey opened a one-stop caregiver resource hub, and federal agencies updated the costs and fraud risks every older adult should know heading into 2027.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
