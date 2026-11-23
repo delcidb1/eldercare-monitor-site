@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Medicare Open Enrollment)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+One week left to change Medicare plans for 2027. Plans change costs, covered drugs and networks every year. Changes made now take effect January 1, 2027. Start with the Annual Notice of Change your parent's plan mailed this fall. It lists what's different. Are all their prescriptions still covered, and at what cost? Are their doctors and pharmacy still in network? Pushy sales calls ramp up now. Medicare won't call out of the blue to sell a plan. Hang up and call 1-800-MEDICARE. Our verdict: worth knowing. Anyone with Medicare can switch plans until December 7. People already in Medicare Advantage get another chance to switch January 1 to March 31. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #2563EB accent lighting looks at the
+camera and says: 'One week left to change Medicare plans for 2027. Anyone with Medicare can switch plans until December 7. People already in Medicare Advantage get another chance to switch January 1 to March 31.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

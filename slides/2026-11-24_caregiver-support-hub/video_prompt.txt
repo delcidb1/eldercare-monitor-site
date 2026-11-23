@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (NJ Caregiver Support Hub)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Caring for someone in New Jersey? Start here.. New Jersey's new Caregiver Support Hub puts resources, training and support information in one place. Visit caregiver.nj.gov to find help for the person you care for, and for yourself. Or call 877-222-3737. It connects you to your county's Aging & Disability Resource Connection. Helping a parent with rides, meals, bills or medications? You're a caregiver, and this is for you. Our verdict: why it helps. Caregivers often spend hours finding the right office. One website and one phone number point you to what your county offers. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Caring for someone in New Jersey? Start here.. Caregivers often spend hours finding the right office. One website and one phone number point you to what your county offers.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

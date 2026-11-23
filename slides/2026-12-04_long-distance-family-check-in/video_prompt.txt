@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Long-Distance Caregiving)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Holidays bring family together. Use 30 minutes well.. Health: upcoming appointments and who can go, the current medication list, and anything that's changed. Money and mail: are bills getting paid? Who can help? Any odd calls, charges or "prizes"? Home: stairs, rugs, lighting, grab bars. Is driving still safe? Who checks in between visits? Papers: is there a health care proxy and power of attorney, and where are they? Who has insurance card copies? Our verdict: why it helps. Living far away doesn't mean you can't help. Split tasks by what each person can actually do from where they live, and include your parent: it's their life. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Holidays bring family together. Use 30 minutes well.. Living far away doesn't mean you can't help. Split tasks by what each person can actually do from where they live, and include your parent: it's their life.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

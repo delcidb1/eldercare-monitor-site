@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Home-Care Agencies)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Hiring home care for a parent? Ask these first.. Are you registered with NJ Consumer Affairs? Every agency that places aides in NJ homes must be. Are your aides certified home health aides (CHHA) in New Jersey, and do you verify it with the Board of Nursing? Are aides your employees or contractors? It affects who pays taxes and carries insurance. Who supervises care? NJ agencies must have a licensed health care supervisor, such as a registered nurse. What happens if the aide can't come? Ask about backup coverage, minimum hours and changing aides. Our verdict: why it helps. Bringing someone into your parent's home is a big decision. Checking registration first protects your parent and gives you somewhere to turn if something goes wrong. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Hiring home care for a parent? Ask these first.. Bringing someone into your parent's home is a big decision. Checking registration first protects your parent and gives you somewhere to turn if something goes wrong.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

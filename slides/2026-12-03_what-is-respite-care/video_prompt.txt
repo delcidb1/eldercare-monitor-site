@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Respite Care)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Caregivers need breaks too. Respite care is short-term care for your parent so you can rest, run errands, work or travel. It can be a few hours or a few days: an aide at home, an adult day program, or a short stay in a care facility. NJ's Statewide Respite Care Program helps eligible families with respite costs. It has financial eligibility rules. Your county office can tell you whether your family qualifies. Our verdict: why it helps. Taking a break isn't giving up. Rested caregivers give better care, and stay caregivers longer. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Caregivers need breaks too. Taking a break isn't giving up. Rested caregivers give better care, and stay caregivers longer.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Dementia & the Holidays)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Holidays when a parent has dementia. Keep the routine: usual mealtimes and bedtimes, and visits at your parent's best time of day. Smaller is better: fewer guests, less noise, shorter visits, and a quiet room they can go to. Prepare guests ahead of time. Suggest they introduce themselves and keep conversation simple. Include them with a familiar, simple job: folding napkins, stirring, or looking at old photos together. Our verdict: why it helps. New faces, noise and changed routines can be overwhelming for someone living with dementia. A few adjustments help them, and help you. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Holidays when a parent has dementia. New faces, noise and changed routines can be overwhelming for someone living with dementia. A few adjustments help them, and help you.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Xentrawave Bed Rails)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Recall: Xentrawave adult bed rails. Model XT016, all batches, and model XT026, batch 20251212 only. Model number is on the box and manual. Black or gray metal frame, gray foam grips, gray fabric pouch with a green "Xentrawave" label. Sold on Amazon.com, May 2025 through August 2026, for about $37 to $40. About 2,114 sold. For any portable bed rail: check for gaps between the rail and mattress, and keep the retention strap attached. Our verdict: important. Stop using a recalled rail now and contact Xentrawave for a full refund. You'll be asked to cut the foam grips and send a photo. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #DC2626 accent lighting looks at the
+camera and says: 'Recall: Xentrawave adult bed rails. Stop using a recalled rail now and contact Xentrawave for a full refund. You'll be asked to cut the foam grips and send a photo.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.

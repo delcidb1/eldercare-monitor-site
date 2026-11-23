@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Holiday Visits)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Home for Thanksgiving? Notice gently.. Around the house: little or expired food, unopened mail or unpaid bills, more clutter, missed or mixed-up medications. Health and getting around: noticeable weight change, falls or trouble walking, clothes that don't suit the weather. Memory and mood: memory slips that disrupt daily life, trouble with familiar tasks, confusion about the day, mood changes. These can have other causes, like depression, infection or medications. A doctor's visit is the right first step. One sign isn't a verdict. Jot down what you noticed and compare notes with siblings after the holiday, not at the table. Start small: pick a quiet moment, ask instead of accuse, and offer one practical help, like grocery delivery or a ride. Our verdict: why it helps. Talking early, while your parent can help decide, keeps more options open: help at home, adult day, respite care or assisted living. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Home for Thanksgiving? Notice gently.. Talking early, while your parent can help decide, keeps more options open: help at home, adult day, respite care or assisted living.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

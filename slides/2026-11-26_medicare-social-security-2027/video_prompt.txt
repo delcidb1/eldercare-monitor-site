@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Medicare & Social Security 2027)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Your parent's 2027 Medicare and Social Security numbers. Social Security benefits rise 3.6% in January 2027. The average retirement benefit goes up about $75 a month. The standard Medicare Part B premium rises to $209.40 a month, up $6.50 from $202.90. The Part B deductible rises to $292 (from $283). The Part A hospital deductible is $1,776 per benefit period. COLA notices arrive in December by mail, unless your parent chose online notices in my Social Security. Our verdict: worth knowing. Part B usually comes out of the Social Security check, so the raise your parent actually sees will be a little smaller than 3.6%. Higher-income beneficiaries pay more for Part B. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #2563EB accent lighting looks at the
+camera and says: 'Your parent's 2027 Medicare and Social Security numbers. Part B usually comes out of the Social Security check, so the raise your parent actually sees will be a little smaller than 3.6%. Higher-income beneficiaries pay more for Part B.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

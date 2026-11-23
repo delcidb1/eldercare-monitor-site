@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (FTC Scam Report)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Scams against older adults: the new FTC numbers. Adults 60+ reported about $3 billion in fraud losses in 2025. The FTC estimates the true cost may be far higher. People 80 and older who lost money reported a median loss of $2,000. Older adults were more likely to report losing money to tech-support, prize and government-impersonation scams. Warning signs: urgency, secrecy, and payment by gift card, wire, crypto or cash handed to a courier. Our verdict: worth knowing. Hang up and call back on a number you already trust: the one on the card, statement or official website. Never use a number from the message itself. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #F59E0B accent lighting looks at the
+camera and says: 'Scams against older adults: the new FTC numbers. Hang up and call back on a number you already trust: the one on the card, statement or official website. Never use a number from the message itself.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

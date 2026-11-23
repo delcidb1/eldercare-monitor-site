@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (DREO Space Heaters)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Recall: about 338,800 DREO space heaters. Model DR-HSH015: a black ceramic heater, about 11.5 inches wide by 13 inches tall, with a remote. Only units made April 2025 through January 2026. Check the label underneath for date codes 2025/04 to 2026/01. Sold at Costco and online at Dreo.com, Best Buy, Kohl's, Lowe's, QVC, Home Depot and others, $70 to $110. DREO received 17 reports of the heaters igniting, including 3 with property damage and 1 burn injury. Our verdict: important. Stop using a recalled heater now. DREO offers a free replacement: you'll be asked to unplug it, cut the cord and send a photo. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #DC2626 accent lighting looks at the
+camera and says: 'Recall: about 338,800 DREO space heaters. Stop using a recalled heater now. DREO offers a free replacement: you'll be asked to unplug it, cut the cord and send a photo.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.

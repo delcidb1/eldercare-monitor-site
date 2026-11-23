@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Holiday Travel)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Traveling with Mom or Dad this season?. Book nonstop flights when you can, travel at your parent's best time of day, and leave room for rest. Carry-on, not checked: medications in labeled bottles plus extra days, a medication list, and insurance cards. Call the airline ahead to request a wheelchair or boarding help. TSA Cares (855-787-2227) wants 72 hours' notice. On long trips, get up and move often and drink water. Ask the doctor about compression stockings. If memory is a concern, keep routines familiar and make sure your parent carries ID and an emergency contact. When you arrive: check for loose rugs and cords, and add a night-light on the path to the bathroom. Our verdict: why it helps. Original Medicare covers care anywhere in the U.S. Medicare Advantage plans may limit out-of-network care, so call the plan before an out-of-state trip. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Traveling with Mom or Dad this season?. Original Medicare covers care anywhere in the U.S. Medicare Advantage plans may limit out-of-network care, so call the plan before an out-of-state trip.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
