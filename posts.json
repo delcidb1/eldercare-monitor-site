@@ -35,7 +35,7 @@
       "05_outro.png"
     ],
     "published": false,
-    "post_source": "evergreen/2026-11-22_weekly-recap_post.json",
+    "post_source": "posts/evergreen/2026-11-22_weekly-recap_post.json",
     "stories": [
       {
         "line": "NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers.",
@@ -114,7 +114,7 @@
       "06_outro.png"
     ],
     "published": false,
-    "post_source": "evergreen/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto_post.json",
+    "post_source": "posts/evergreen/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto_post.json",
     "effective_date": "2026-11-21",
     "site_status": "approved",
     "instagram_status": "queued",

@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-23T01:07:48Z",
+  "generated_at": "2026-11-23T03:16:50Z",
   "post_date": "2026-11-22",
   "posts": [
     {
@@ -46,7 +46,7 @@
       "approved_at": "2026-11-21T22:30:37+00:00",
       "approved_via": "email",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto_post.json",
+      "post_source": "posts/evergreen/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto_post.json",
       "slide_folder": "2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto/01_hook.png",
@@ -190,7 +190,7 @@
       "approved_at": "2026-11-22T16:03:20+00:00",
       "approved_via": "email",
       "source_type": "evergreen",
-      "post_source": "evergreen/2026-11-22_weekly-recap_post.json",
+      "post_source": "posts/evergreen/2026-11-22_weekly-recap_post.json",
       "slide_folder": "2026-11-22_weekly-recap",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-22_weekly-recap/01_hook.png",
