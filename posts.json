@@ -34,7 +34,7 @@
       "04_changes.png",
       "05_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/evergreen/2026-11-22_weekly-recap_post.json",
     "stories": [
       {
@@ -72,10 +72,10 @@
     ],
     "effective_date": "2026-11-22",
     "site_status": "approved",
-    "instagram_status": "queued",
+    "instagram_status": "published",
     "instagram_permalink": "",
     "instagram_post_id": "",
-    "published_at": ""
+    "published_at": "2026-11-22T17:00:00Z"
   },
   {
     "id": "2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto",
@@ -113,13 +113,13 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/evergreen/2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto_post.json",
     "effective_date": "2026-11-21",
     "site_status": "approved",
-    "instagram_status": "queued",
+    "instagram_status": "published",
     "instagram_permalink": "",
     "instagram_post_id": "",
-    "published_at": ""
+    "published_at": "2026-11-21T17:00:00Z"
   }
 ]

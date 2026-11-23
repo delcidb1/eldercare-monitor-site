@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-23T03:16:50Z",
+  "generated_at": "2026-11-23T03:21:44Z",
   "post_date": "2026-11-22",
   "posts": [
     {
@@ -69,10 +69,12 @@
       "media_error": "",
       "instagram_caption": "BEFORE YOU CHOOSE\n\nBefore you tour a nursing home in Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, or Warren County, spend a few minutes on Care Compare. The free federal tool shows you each facility's star rating across three areas: health inspections, staffing levels, and quality measures. You can read the actual inspection reports from the past three years, see how many nurse hours per day each resident receives on average, check staff turnover rates, and find out whether Medicare has ever fined or penalized the facility. None of that shows up on a lobby tour. Use what you find online to form sharper questions when you walk in the door. Source: Medicare.gov Care Compare.\n\n#NursingHome #AssistedLiving #SeniorLiving #AgingParents #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
       "caption_sha256": "1c1543f461d811a2a93d30b64b2ec185863ef433c9cbfaca968c430eb2f76701",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-21T17:00:00Z",
+      "source": "manual: user confirmed posted",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": [
         "Saturday"
@@ -211,22 +213,24 @@
       "media_error": "",
       "instagram_caption": "THIS WEEK IN ELDERCARE · Nov 16–22, 2026\n\nWhat to watch in the next three weeks:\n📅 Nov 30: Social Security accounts show 2027 COLA notices in late November. (via Social Security Administration)\n📅 Dec 7: Medicare Open Enrollment closes Dec 7; last day to switch plans. (via SSA)\n📅 Dec 7: NJ SHIP offers free counseling through Dec 7. (via NPR / CMS)\n\nLast week's top stories for older adults and caregivers:\n1. NJ Human Services launched caregiver.nj.gov with more than 350 resources for the state's 1.1 million family caregivers. (via NJ Insider / NJ Human Services)\n2. CMS set the 2027 Medicare Part B standard premium at $209.40/month, up $6.50, and the annual deductible at $292. (via CMS)\n3. FTC warned older adults: scammers use AI voice cloning to impersonate grandchildren in distress. (via FTC)\n4. FTC warned that scammers are using three new tactics to steal VA disability benefits from veterans and older adults. (via FTC)\n\n🔖 Save this so you don't miss those deadlines.\n📤 Send this to a sibling who helps with Mom or Dad.\n🔔 Follow @njcarecompass. One recap every Sunday, so you don't have to read 50 articles.\n\n#Caregiving #AgingParents #Medicare #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
       "caption_sha256": "e12bd0aaa167b3cbaf9f63552ee16f027fa71f09957f3da756fdfe6365ff02e7",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-22T17:00:00Z",
+      "source": "manual: user confirmed posted",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": [
         "Sunday"
       ],
-      "eligible_today": true
+      "eligible_today": false
     }
   ],
   "total": 2,
-  "queued_count": 2,
-  "published_count": 0,
+  "queued_count": 0,
+  "published_count": 2,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
