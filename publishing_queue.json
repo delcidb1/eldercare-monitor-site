@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T04:57:49Z",
-  "post_date": "2026-11-23",
+  "generated_at": "2026-11-24T05:13:29Z",
+  "post_date": "2026-11-24",
   "posts": [
     {
       "id": "2026-11-24_traveling-with-aging-parent",
@@ -72,10 +72,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "scheduled_for": "2026-11-24",
-      "lane": "scheduled",
-      "waiting_reason": "not_before:2026-11-24"
+      "eligible_today": true,
+      "lane": "scheduled"
     },
     {
       "app": "Medicare Drug Price Negotiation",
@@ -1409,5 +1407,5 @@
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 2
 }
