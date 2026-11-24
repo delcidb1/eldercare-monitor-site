@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (NJ Stay NJ)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Big news for New Jersey homeowners. The Stay NJ property tax relief program just raised its income limit from $200,000 all the way to $500,000. That means a lot more people who own their homes in New Jersey could now qualify for this benefit. Important note: renters, mobile home owners, and Social Security disability recipients under 65 are still not eligible. Full breakdown in the carousel - follow at NJ Care Compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0E7490 accent lighting looks at the
+camera and says: 'NJ Stay NJ income limit jumps to $500,000. NJ homeowners previously over the $200,000 income limit may now qualify. SSDI recipients under 65 are clearly excluded.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

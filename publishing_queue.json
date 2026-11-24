@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T20:51:59Z",
+  "generated_at": "2026-11-24T22:59:08Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -140,6 +140,83 @@
       "priority": 100,
       "instagram_caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
       "caption_sha256": "193fc121a4933a9cdb1f28fa65a910b1bece81c1fa163169e8ddeeb44fa8b3e1",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true,
+      "lane": "news"
+    },
+    {
+      "app": "NJ Stay NJ",
+      "accent": "#0E7490",
+      "headline": "NJ Stay NJ income limit jumps to $500,000",
+      "subhead": "More homeowners may now qualify for property tax relief",
+      "effective": "Updated November 24, 2026",
+      "changes": [
+        "Annual income limit raised from $200,000 to $500,000 for eligibility",
+        "More NJ homeowners subject to property taxes may now qualify",
+        "Renters and mobile home owners remain ineligible, as before",
+        "Social Security disability recipients under 65 explicitly added to ineligible list"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "NJ homeowners previously over the $200,000 income limit may now qualify. SSDI recipients under 65 are clearly excluded.",
+      "actions": [
+        "Check your combined household income against the new $500,000 limit",
+        "Visit nj.gov/treasury/taxation/staynj for full eligibility details",
+        "Call NJ SHIP at 1-800-792-8820 if you need help understanding your options"
+      ],
+      "caption": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.",
+      "hashtags": [
+        "njstaynj",
+        "newjersey",
+        "propertytax",
+        "seniorbenefits",
+        "njseniors",
+        "caregiver",
+        "taxrelief"
+      ],
+      "video_script": "Big news for New Jersey homeowners. The Stay NJ property tax relief program just raised its income limit from $200,000 all the way to $500,000. That means a lot more people who own their homes in New Jersey could now qualify for this benefit. Important note: renters, mobile home owners, and Social Security disability recipients under 65 are still not eligible. Full breakdown in the carousel - follow at NJ Care Compass for the next change.",
+      "categories": [
+        {
+          "tag": "eligibility",
+          "explanation": "The annual income ceiling for Stay NJ was raised from $200,000 to $500,000, expanding the pool of homeowners who can qualify."
+        },
+        {
+          "tag": "eligibility",
+          "explanation": "Social Security disability benefit recipients under age 65 were explicitly added to the list of people who do not qualify for Stay NJ."
+        }
+      ],
+      "caption_rendered": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.\n\n#njstaynj #newjersey #propertytax #seniorbenefits #njseniors #caregiver #taxrelief #NJCareCompass",
+      "id": "2026-11-24_nj-stay-nj",
+      "source_type": "diff",
+      "post_source": "posts/benefits/2026-11-24_nj-stay-nj_post.json",
+      "slide_folder": "2026-11-24_nj-stay-nj",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-24",
+      "priority": 100,
+      "instagram_caption": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.\n\n#njstaynj #newjersey #propertytax #seniorbenefits #njseniors #caregiver #taxrelief #NJCareCompass",
+      "caption_sha256": "7f12cd5a8be5d9d7026f9bb57a1602470e95fa90a9428cf37f846566acde7bad",
       "published": false,
       "publishable": true,
       "status": "queued",
@@ -1401,11 +1478,11 @@
       "lane": "scheduled"
     }
   ],
-  "total": 19,
-  "queued_count": 15,
+  "total": 20,
+  "queued_count": 16,
   "published_count": 3,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 2
+  "eligible_today_count": 3
 }

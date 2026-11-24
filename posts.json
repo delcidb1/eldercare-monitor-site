@@ -620,6 +620,59 @@
     "published_at": ""
   },
   {
+    "id": "2026-11-24_nj-stay-nj",
+    "app": "NJ Stay NJ",
+    "accent": "#0E7490",
+    "headline": "NJ Stay NJ income limit jumps to $500,000",
+    "subhead": "More homeowners may now qualify for property tax relief",
+    "effective": "Updated November 24, 2026",
+    "changes": [
+      "Annual income limit raised from $200,000 to $500,000 for eligibility",
+      "More NJ homeowners subject to property taxes may now qualify",
+      "Renters and mobile home owners remain ineligible, as before",
+      "Social Security disability recipients under 65 explicitly added to ineligible list"
+    ],
+    "verdict": "WORTH_KNOWING",
+    "verdict_text": "NJ homeowners previously over the $200,000 income limit may now qualify. SSDI recipients under 65 are clearly excluded.",
+    "actions": [
+      "Check your combined household income against the new $500,000 limit",
+      "Visit nj.gov/treasury/taxation/staynj for full eligibility details",
+      "Call NJ SHIP at 1-800-792-8820 if you need help understanding your options"
+    ],
+    "categories": [
+      {
+        "tag": "eligibility",
+        "explanation": "The annual income ceiling for Stay NJ was raised from $200,000 to $500,000, expanding the pool of homeowners who can qualify."
+      },
+      {
+        "tag": "eligibility",
+        "explanation": "Social Security disability benefit recipients under age 65 were explicitly added to the list of people who do not qualify for Stay NJ."
+      }
+    ],
+    "date": "2026-11-24",
+    "slide_folder": "2026-11-24_nj-stay-nj",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/benefits/2026-11-24_nj-stay-nj_post.json",
+    "effective_date": "2026-11-24",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": "",
+    "preview_hook": "Source: https://www.nj.gov/treasury/taxation/staynj/",
+    "key_changes": []
+  },
+  {
     "id": "2026-11-24_medicare-negotiated-drug-prices",
     "app": "Medicare Drug Price Negotiation",
     "accent": "#1D4ED8",
