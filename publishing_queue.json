@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T23:17:09Z",
+  "generated_at": "2026-11-24T23:20:24Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -1511,10 +1511,12 @@
       "series_id": "caregiver-toolkit",
       "series_title": "Caregiver Toolkit",
       "caption_rendered": "CAREGIVER TOOLKIT\n\nIf your aging parent has Medicare questions, a free expert is a phone call away. NJ SHIP — the State Health Insurance Assistance Program — places trained volunteer counselors in all eight North Jersey counties: Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, and Warren. They help with everything from choosing between Original Medicare and an Advantage plan, to untangling a denied claim, to finding programs that lower prescription costs. Counselors do not sell insurance and do not steer you toward any company or plan. Appointments are available by phone, video, or in person. Call 1-800-792-8820 weekdays between 8:30 am and 4:30 pm to reach the NJ Division of Aging Services State Health Insurance Assistance Program.\n\n#Caregiving #CaregiverTips #AgingParents #FamilyCaregiver #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
-      "approved": false,
-      "publish_to_site": false,
+      "approved": true,
+      "publish_to_site": true,
       "priority": 300,
-      "draft": true,
+      "draft": false,
+      "approved_at": "2026-11-24T23:20:24+00:00",
+      "approved_via": "email",
       "source_type": "evergreen",
       "post_source": "posts/evergreen/2026-11-24_caregiver-toolkit_topic-caregiver-toolkit-nj-ship-counselor_post.json",
       "slide_folder": "2026-11-24_caregiver-toolkit_topic-caregiver-toolkit-nj-ship-counselor",
@@ -1540,17 +1542,18 @@
       "instagram_caption": "CAREGIVER TOOLKIT\n\nIf your aging parent has Medicare questions, a free expert is a phone call away. NJ SHIP — the State Health Insurance Assistance Program — places trained volunteer counselors in all eight North Jersey counties: Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, and Warren. They help with everything from choosing between Original Medicare and an Advantage plan, to untangling a denied claim, to finding programs that lower prescription costs. Counselors do not sell insurance and do not steer you toward any company or plan. Appointments are available by phone, video, or in person. Call 1-800-792-8820 weekdays between 8:30 am and 4:30 pm to reach the NJ Division of Aging Services State Health Insurance Assistance Program.\n\n#Caregiving #CaregiverTips #AgingParents #FamilyCaregiver #ElderCare #NorthJersey #NJSeniors #NJCareCompass",
       "caption_sha256": "6d24b6181fa5da2e3b43d6772630462fe968612c706959da81472c728f25ed7f",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "lane": "scheduled"
+      "lane": "scheduled",
+      "waiting_reason": "one_post_per_day"
     }
   ],
   "total": 21,
-  "queued_count": 16,
+  "queued_count": 17,
   "published_count": 3,
   "baseline_count": 0,
   "held_count": 0,
