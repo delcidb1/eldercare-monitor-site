@@ -1,58 +1,87 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T04:45:16Z",
+  "generated_at": "2026-11-24T04:50:43Z",
   "post_date": "2026-11-23",
   "posts": [
     {
-      "app": "Medicare Drug Price Negotiation",
-      "accent": "#1D4ED8",
-      "headline": "Medicare negotiated drug list updated November 2026",
-      "subhead": "New deselections and 2028 price facts added",
-      "effective": "Updated November 24, 2026",
+      "id": "2026-11-24_traveling-with-aging-parent",
+      "date": "2026-11-24",
+      "app": "Holiday Travel",
+      "post_type": "guide",
+      "cover_query": "airport window sunrise",
+      "effective": "Holiday season 2026",
+      "headline": "Traveling with Mom or Dad this season?",
+      "subhead": "A little planning makes the trip easier for everyone.",
       "changes": [
-        "New fact sheet and infographic published for negotiated prices taking effect in 2028",
-        "By March 1, 2027, CMS will post a price explanation for each drug with an agreed price for 2028",
-        "Five more drugs deselected: Farxiga, Januvia, Janumet/Janumet XR, Ofev, and Pomalyst removed January 1, 2028",
-        "Xeljanz/Xeljanz XR and Xolair deselected with removal effective January 1, 2029"
+        "Book nonstop flights when you can, travel at your parent's best time of day, and leave room for rest.",
+        "Carry-on, not checked: medications in labeled bottles plus extra days, a medication list, and insurance cards.",
+        "Call the airline ahead to request a wheelchair or boarding help. At the airport, ask any TSA officer for a Passenger Support Specialist.",
+        "On long trips, get up and move often and drink water. Ask the doctor about compression stockings.",
+        "If memory is a concern, keep routines familiar and make sure your parent carries ID and an emergency contact.",
+        "When you arrive: check for loose rugs and cords, and add a night-light on the path to the bathroom."
       ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "People on Medicare Part D or Part B who take these drugs should check whether negotiated prices still apply to their medication.",
+      "verdict": "WHY_IT_HELPS",
+      "verdict_text": "Original Medicare covers care anywhere in the U.S. Medicare Advantage plans may limit out-of-network care, so call the plan before an out-of-state trip.",
       "actions": [
-        "Check if your drug is on the updated negotiated price list at Medicare.gov",
-        "Ask your pharmacist whether your drug's negotiated price still applies in 2027 or 2028",
-        "Call 1-800-MEDICARE or NJ SHIP at 1-800-792-8820 with coverage questions"
+        "At the airport: ask TSA for a Passenger Support Specialist",
+        "Medicare travel questions: NJ SHIP, 1-800-792-8820",
+        "Memory concerns: Alzheimer's Association, 800-272-3900"
       ],
-      "caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.",
-      "hashtags": [
-        "medicare",
-        "medicarepartd",
-        "prescriptiondrugs",
-        "drugprices",
-        "medicarenegotiation",
-        "njseniors",
-        "seniorhealth",
-        "caregiving"
+      "not_before": "2026-11-24",
+      "how_to_sources": [
+        "https://www.tsa.gov/travel/passenger-support",
+        "https://www.medicare.gov"
       ],
-      "video_script": "Here is an update Medicare beneficiaries in New Jersey should know about. CMS just updated its negotiated drug price list in November 2026. Several drugs, including Farxiga, Januvia, Janumet, Ofev, and Pomalyst, have been removed from the negotiated price program starting January 1, 2028. Xeljanz and Xolair follow in 2029. If you or someone you care for takes any of these medications, now is the time to check your coverage. Full breakdown in the carousel - follow at N J care compass for the next change.",
-      "categories": [
-        {
-          "tag": "coverage",
-          "explanation": "Multiple drugs are being removed from the Medicare negotiated price program, meaning the lower Maximum Fair Price will no longer apply to those medications after their removal dates."
-        }
-      ],
-      "caption_rendered": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
-      "id": "2026-11-24_medicare-negotiated-drug-prices",
-      "source_type": "diff",
-      "post_source": "posts/benefits/2026-11-24_medicare-negotiated-drug-prices_post.json",
-      "slide_folder": "2026-11-24_medicare-negotiated-drug-prices",
+      "source_doc": "https://www.tsa.gov/travel/passenger-support; https://www.medicare.gov",
+      "caption_rendered": "Holiday travel is hard enough. Add a parent who tires easily, takes several medications or gets confused in new places, and it takes real planning.\n\nSwipe for what to pack, how to get help at the airport, what to watch for on long drives, and the insurance question to ask before you leave.\n\nTwo numbers worth saving:\nTSA Cares, 855-787-2227. Flying this week? Ask any TSA officer at the airport for a Passenger Support Specialist. For future trips, call at least 72 hours ahead.\nNJ SHIP, 1-800-792-8820. Free Medicare counseling, including what's covered when you travel.\n\nCaring for someone with memory loss? The Alzheimer's Association 24/7 Helpline is 800-272-3900.\n\nSources: TSA (Passenger Support / TSA Cares); U.S. DOT, Air Carrier Access Act guidance; Medicare.gov; Alzheimer's Association, Traveling and Dementia. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #AgingParents #Caregiving #HolidayTravel #ElderCare #NJCareCompass",
+      "categories": [],
+      "source_type": "manual",
+      "post_source": "posts/manual/2026-11-24_traveling-with-aging-parent_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 99,
+      "caption_field": null,
+      "configured_slide_folder": "2026-11-24_traveling-with-aging-parent",
+      "slide_folder": "2026-11-24_traveling-with-aging-parent",
       "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/06_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_traveling-with-aging-parent/07_outro.png"
       ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "Holiday travel is hard enough. Add a parent who tires easily, takes several medications or gets confused in new places, and it takes real planning.\n\nSwipe for what to pack, how to get help at the airport, what to watch for on long drives, and the insurance question to ask before you leave.\n\nTwo numbers worth saving:\nTSA Cares, 855-787-2227. Flying this week? Ask any TSA officer at the airport for a Passenger Support Specialist. For future trips, call at least 72 hours ahead.\nNJ SHIP, 1-800-792-8820. Free Medicare counseling, including what's covered when you travel.\n\nCaring for someone with memory loss? The Alzheimer's Association 24/7 Helpline is 800-272-3900.\n\nSources: TSA (Passenger Support / TSA Cares); U.S. DOT, Air Carrier Access Act guidance; Medicare.gov; Alzheimer's Association, Traveling and Dementia. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #AgingParents #Caregiving #HolidayTravel #ElderCare #NJCareCompass",
+      "caption_sha256": "b7d669ae667d2520fa39e038ccf04427ddf8463c91ae5120e5ecd62195d66a39",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false,
+      "scheduled_for": "2026-11-24",
+      "waiting_reason": "not_before:2026-11-24"
+    },
+    {
+      "id": "2026-12-04_long-distance-family-check-in",
+      "app": "Long Distance Family Check In",
+      "date": "2026-12-04",
+      "source_type": "slides_auto",
+      "slide_folder": "2026-12-04_long-distance-family-check-in",
       "media_files": [
         "01_hook.png",
         "02_changes.png",
@@ -61,21 +90,20 @@
         "05_action.png",
         "06_outro.png"
       ],
+      "media_urls": [],
       "slide_count": 6,
       "has_slides": true,
-      "media_error": "",
-      "date": "2026-11-24",
+      "media_error": "no structured post source",
+      "instagram_caption": "",
+      "caption_sha256": "",
       "priority": 100,
-      "instagram_caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
-      "caption_sha256": "193fc121a4933a9cdb1f28fa65a910b1bece81c1fa163169e8ddeeb44fa8b3e1",
       "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
-      "site_status": "approved",
+      "publishable": false,
+      "status": "requires_review",
+      "instagram_status": "requires_review",
+      "site_status": "requires_review",
       "post_days": "any",
-      "eligible_today": false,
-      "waiting_reason": "already_posted_today"
+      "eligible_today": false
     },
     {
       "id": "2026-11-24_caregiver-support-hub",
@@ -222,8 +250,8 @@
       "waiting_reason": "not_before:2026-11-25"
     },
     {
-      "id": "2026-11-26_medicare-social-security-2027",
-      "date": "2026-11-26",
+      "id": "2026-12-03_medicare-social-security-2027",
+      "date": "2026-12-03",
       "app": "Medicare & Social Security 2027",
       "post_type": "change",
       "accent": "#2563EB",
@@ -248,7 +276,7 @@
         "Watch for the COLA notice in December",
         "Free Medicare help: NJ SHIP, 1-800-792-8820"
       ],
-      "not_before": "2026-11-26",
+      "not_before": "2026-12-03",
       "how_to_sources": [
         "https://www.ssa.gov/news/en/press/releases/2026-10-14.html",
         "https://public-inspection.federalregister.gov/2026-23601.pdf",
@@ -257,20 +285,20 @@
       "source_doc": "https://www.ssa.gov/news/en/press/releases/2026-10-14.html; https://public-inspection.federalregister.gov/2026-23601.pdf; https://public-inspection.federalregister.gov/2026-23603.pdf",
       "caption_rendered": "New year, new numbers. Social Security benefits rise 3.6% in January, and the standard Medicare Part B premium rises to $209.40 a month. Because Part B usually comes out of the Social Security check, the increase your parent actually sees will be a little smaller.\n\nSwipe for the 2027 figures and what to watch for in the mail.\n\nFree Medicare help in NJ: SHIP, 1-800-792-8820.\n\nSources: Social Security Administration, COLA announcement, Oct 14, 2026; CMS, 2027 Medicare Part B and Part A notices, Nov 17, 2026. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Medicare #SocialSecurity #COLA #AgingParents #NJCareCompass",
       "source_type": "manual",
-      "post_source": "posts/manual/2026-11-26_medicare-social-security-2027_post.json",
+      "post_source": "posts/manual/2026-12-03_medicare-social-security-2027_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 103,
       "caption_field": null,
-      "configured_slide_folder": "2026-11-26_medicare-social-security-2027",
-      "slide_folder": "2026-11-26_medicare-social-security-2027",
+      "configured_slide_folder": "2026-12-03_medicare-social-security-2027",
+      "slide_folder": "2026-12-03_medicare-social-security-2027",
       "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_medicare-social-security-2027/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_medicare-social-security-2027/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_medicare-social-security-2027/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_medicare-social-security-2027/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_medicare-social-security-2027/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_medicare-social-security-2027/06_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_medicare-social-security-2027/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_medicare-social-security-2027/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_medicare-social-security-2027/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_medicare-social-security-2027/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_medicare-social-security-2027/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_medicare-social-security-2027/06_outro.png"
       ],
       "media_files": [
         "01_hook.png",
@@ -292,8 +320,8 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "scheduled_for": "2026-11-26",
-      "waiting_reason": "not_before:2026-11-26"
+      "scheduled_for": "2026-12-03",
+      "waiting_reason": "not_before:2026-12-03"
     },
     {
       "id": "2026-11-27_dreo-space-heater-recall",
@@ -578,8 +606,8 @@
       "waiting_reason": "not_before:2026-12-02"
     },
     {
-      "id": "2026-12-03_what-is-respite-care",
-      "date": "2026-12-03",
+      "id": "2026-12-14_what-is-respite-care",
+      "date": "2026-12-14",
       "app": "Respite Care",
       "post_type": "guide",
       "cover_query": "tea cup window relaxing",
@@ -599,7 +627,7 @@
         "Ask about the Statewide Respite Care Program",
         "Save this for when you need it"
       ],
-      "not_before": "2026-12-03",
+      "not_before": "2026-12-14",
       "how_to_sources": [
         "https://www.nj.gov/humanservices/doas/"
       ],
@@ -607,20 +635,20 @@
       "caption_rendered": "If you've been the one handling every appointment, call and meal, you're allowed to step away. Respite care covers your parent for a few hours or a few days so you can recharge.\n\nNew Jersey's Statewide Respite Care Program can help eligible families. Start with your county office: 877-222-3737.\n\nSource: NJ Department of Human Services, Division of Aging Services, Statewide Respite Care Program. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #RespiteCare #CaregiverSupport #AgingParents #NJCareCompass",
       "categories": [],
       "source_type": "manual",
-      "post_source": "posts/manual/2026-12-03_what-is-respite-care_post.json",
+      "post_source": "posts/manual/2026-12-14_what-is-respite-care_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 108,
       "caption_field": null,
-      "configured_slide_folder": "2026-12-03_what-is-respite-care",
-      "slide_folder": "2026-12-03_what-is-respite-care",
+      "configured_slide_folder": "2026-12-14_what-is-respite-care",
+      "slide_folder": "2026-12-14_what-is-respite-care",
       "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_what-is-respite-care/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_what-is-respite-care/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_what-is-respite-care/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_what-is-respite-care/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_what-is-respite-care/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-03_what-is-respite-care/06_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-14_what-is-respite-care/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-14_what-is-respite-care/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-14_what-is-respite-care/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-14_what-is-respite-care/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-14_what-is-respite-care/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-14_what-is-respite-care/06_outro.png"
       ],
       "media_files": [
         "01_hook.png",
@@ -642,54 +670,53 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "scheduled_for": "2026-12-03",
-      "waiting_reason": "not_before:2026-12-03"
+      "scheduled_for": "2026-12-14",
+      "waiting_reason": "not_before:2026-12-14"
     },
     {
-      "id": "2026-12-04_long-distance-family-check-in",
+      "id": "2026-12-04_county-compass-bergen",
       "date": "2026-12-04",
-      "app": "Long-Distance Caregiving",
+      "app": "County Compass: Bergen",
       "post_type": "guide",
-      "cover_query": "notebook coffee table winter",
+      "cover_query": "tree lined street winter suburb",
       "effective": "December 2026",
-      "headline": "Holidays bring family together. Use 30 minutes well.",
-      "subhead": "A simple agenda for a family check-in about Mom or Dad.",
-      "changes_label": "THE AGENDA",
+      "headline": "County Compass: Bergen County",
+      "subhead": "Caring for an older adult in Bergen? Here's your first call.",
       "changes": [
-        "Health: upcoming appointments and who can go, the current medication list, and anything that's changed.",
-        "Money and mail: are bills getting paid? Who can help? Any odd calls, charges or \"prizes\"?",
-        "Home: stairs, rugs, lighting, grab bars. Is driving still safe? Who checks in between visits?",
-        "Papers: is there a health care proxy and power of attorney, and where are they? Who has insurance card copies?"
+        "Bergen County Division of Senior Services: Senior HelpLine 201-336-7400. One Bergen County Plaza, 2nd floor, Hackensack.",
+        "Its Information & Assistance / Care Management unit is Bergen's Aging & Disability Resource Connection (ADRC), for older adults, caregivers and adults 18+ with a disability.",
+        "Ask about care management, Ride Connect transportation, and 10 county-run senior activity centers, each with a meal program.",
+        "Before you call, have your parent's town, age, what's getting harder (meals, rides, bathing, bills) and their insurance."
       ],
       "verdict": "WHY_IT_HELPS",
-      "verdict_text": "Living far away doesn't mean you can't help. Split tasks by what each person can actually do from where they live, and include your parent: it's their life.",
+      "verdict_text": "You don't need to have it all figured out. Calling and asking \"where do I start?\" is exactly what this office is for.",
       "actions": [
-        "Set a date for the next family call",
-        "Free NJ help: 877-222-3737 (county ADRC)",
-        "Share this with your siblings"
+        "Bergen Senior HelpLine: 201-336-7400",
+        "Not in Bergen? Call 877-222-3737 for your county ADRC",
+        "Next in County Compass: Essex"
       ],
       "not_before": "2026-12-04",
       "how_to_sources": [
-        "https://www.nia.nih.gov/health/caregiving"
+        "https://www.bergencountynj.gov"
       ],
-      "source_doc": "https://www.nia.nih.gov/health/caregiving",
-      "caption_rendered": "Living far away doesn't mean you can't help. The holidays may be the only time everyone is in the same place, so use 30 minutes of it well.\n\nSwipe for a simple check-in agenda: health, money, home, papers, and who does what. Include your parent in the conversation. It's their life.\n\nFree NJ help: 877-222-3737.\n\nSources: National Institute on Aging, \"Getting Started with Long-Distance Caregiving\"; NJ Department of Human Services. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #LongDistanceCaregiving #AgingParents #FamilyCaregivers #NJCareCompass",
+      "source_doc": "https://www.bergencountynj.gov",
+      "caption_rendered": "Every county in New Jersey has an office whose whole job is helping older adults and the people who care for them. In Bergen County, it's the Division of Senior Services in Hackensack: 201-336-7400.\n\nCall for care management, rides, senior centers and meals, or just to ask \"where do I start?\" Save this, and share it with a sibling who's helping too.\n\nNext up in County Compass: Essex.\n\nSource: Bergen County Division of Senior Services, Information & Assistance and Senior Activity Centers pages, bergencountynj.gov. Last checked Nov 23, 2026. Independent, not a government office.\n\n#BergenCounty #NJCaregivers #NorthJersey #Hackensack #AgingParents #CountyCompass #NJCareCompass",
       "categories": [],
       "source_type": "manual",
-      "post_source": "posts/manual/2026-12-04_long-distance-family-check-in_post.json",
+      "post_source": "posts/manual/2026-12-04_county-compass-bergen_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 109,
       "caption_field": null,
-      "configured_slide_folder": "2026-12-04_long-distance-family-check-in",
-      "slide_folder": "2026-12-04_long-distance-family-check-in",
+      "configured_slide_folder": "2026-12-04_county-compass-bergen",
+      "slide_folder": "2026-12-04_county-compass-bergen",
       "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_long-distance-family-check-in/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_long-distance-family-check-in/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_long-distance-family-check-in/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_long-distance-family-check-in/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_long-distance-family-check-in/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_long-distance-family-check-in/06_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_county-compass-bergen/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_county-compass-bergen/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_county-compass-bergen/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_county-compass-bergen/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_county-compass-bergen/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-04_county-compass-bergen/06_outro.png"
       ],
       "media_files": [
         "01_hook.png",
@@ -702,8 +729,8 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "Living far away doesn't mean you can't help. The holidays may be the only time everyone is in the same place, so use 30 minutes of it well.\n\nSwipe for a simple check-in agenda: health, money, home, papers, and who does what. Include your parent in the conversation. It's their life.\n\nFree NJ help: 877-222-3737.\n\nSources: National Institute on Aging, \"Getting Started with Long-Distance Caregiving\"; NJ Department of Human Services. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #LongDistanceCaregiving #AgingParents #FamilyCaregivers #NJCareCompass",
-      "caption_sha256": "504189a64c0af5b4f1dea2e31097c7f9e2ff7feeb307f719c242841131556e43",
+      "instagram_caption": "Every county in New Jersey has an office whose whole job is helping older adults and the people who care for them. In Bergen County, it's the Division of Senior Services in Hackensack: 201-336-7400.\n\nCall for care management, rides, senior centers and meals, or just to ask \"where do I start?\" Save this, and share it with a sibling who's helping too.\n\nNext up in County Compass: Essex.\n\nSource: Bergen County Division of Senior Services, Information & Assistance and Senior Activity Centers pages, bergencountynj.gov. Last checked Nov 23, 2026. Independent, not a government office.\n\n#BergenCounty #NJCaregivers #NorthJersey #Hackensack #AgingParents #CountyCompass #NJCareCompass",
+      "caption_sha256": "ba38021e771c41b793d663ccb54234b2623333f1535c512c31a2540eb83dcdfe",
       "published": false,
       "publishable": true,
       "status": "queued",
@@ -784,68 +811,64 @@
       "waiting_reason": "not_before:2026-12-07"
     },
     {
-      "id": "2026-12-08_traveling-with-aging-parent",
+      "id": "2026-12-08_facility-check-nursing-home",
       "date": "2026-12-08",
-      "app": "Holiday Travel",
+      "app": "Facility Check",
       "post_type": "guide",
-      "cover_query": "airport window sunrise",
-      "effective": "Holiday season 2026",
-      "headline": "Traveling with Mom or Dad this season?",
-      "subhead": "A little planning makes the trip easier for everyone.",
+      "cover_query": "soft light hallway",
+      "effective": "December 2026",
+      "headline": "Facility Check: choosing a North Jersey nursing home?",
+      "subhead": "Three public records to check first.",
       "changes": [
-        "Book nonstop flights when you can, travel at your parent's best time of day, and leave room for rest.",
-        "Carry-on, not checked: medications in labeled bottles plus extra days, a medication list, and insurance cards.",
-        "Call the airline ahead to request a wheelchair or boarding help. TSA Cares (855-787-2227) wants 72 hours' notice.",
-        "On long trips, get up and move often and drink water. Ask the doctor about compression stockings.",
-        "If memory is a concern, keep routines familiar and make sure your parent carries ID and an emergency contact.",
-        "When you arrive: check for loose rugs and cords, and add a night-light on the path to the bathroom."
+        "Care Compare star ratings: Medicare.gov/care-compare rates every Medicare- and Medicaid-certified nursing home on inspections, staffing and quality. Look at each rating, not just the overall stars.",
+        "Inspection reports: on the same page, open the inspection results. Look for deficiencies marked as harm or \"immediate jeopardy,\" and problems that repeat year after year.",
+        "The Special Focus Facility list: CMS publishes a monthly list of nursing homes with a history of serious quality problems, plus candidates that qualify but haven't been selected.",
+        "Then visit more than once, including a mealtime or evening. Watch how staff talk with residents and how quickly call lights are answered."
       ],
       "verdict": "WHY_IT_HELPS",
-      "verdict_text": "Original Medicare covers care anywhere in the U.S. Medicare Advantage plans may limit out-of-network care, so call the plan before an out-of-state trip.",
+      "verdict_text": "If something's wrong after move-in, the NJ Long-Term Care Ombudsman investigates concerns for residents 60+. Complaints are confidential, and anonymous complaints are accepted. In an emergency, call 911.",
       "actions": [
-        "TSA Cares: 855-787-2227, 72+ hours ahead",
-        "Medicare travel questions: NJ SHIP, 1-800-792-8820",
-        "Memory concerns: Alzheimer's Association, 800-272-3900"
+        "NJ LTC Ombudsman: 1-877-582-6995",
+        "Medicare.gov/care-compare",
+        "Each month we'll check the CMS list for North Jersey"
       ],
       "not_before": "2026-12-08",
       "how_to_sources": [
-        "https://www.tsa.gov/travel/passenger-support",
-        "https://www.medicare.gov"
+        "https://www.medicare.gov/care-compare",
+        "https://www.nj.gov/ltco"
       ],
-      "source_doc": "https://www.tsa.gov/travel/passenger-support; https://www.medicare.gov",
-      "caption_rendered": "Holiday travel is hard enough. Add a parent who tires easily, takes several medications or gets confused in new places, and it takes real planning.\n\nSwipe for what to pack, how to get help at the airport, what to watch for on long drives, and the insurance question to ask before you leave.\n\nTwo numbers worth saving:\nTSA Cares, 855-787-2227. Call at least 72 hours before a flight to request help at security.\nNJ SHIP, 1-800-792-8820. Free Medicare counseling, including what's covered when you travel.\n\nCaring for someone with memory loss? The Alzheimer's Association 24/7 Helpline is 800-272-3900.\n\nSources: TSA (Passenger Support / TSA Cares); U.S. DOT, Air Carrier Access Act guidance; Medicare.gov; Alzheimer's Association, Traveling and Dementia. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #AgingParents #Caregiving #HolidayTravel #ElderCare #NJCareCompass",
+      "source_doc": "https://www.medicare.gov/care-compare; https://www.nj.gov/ltco",
+      "caption_rendered": "Every nursing home in New Jersey that takes Medicare or Medicaid has a public record: star ratings, inspection reports, and for the lowest performers, a spot on a federal watch list. Most families never look.\n\nSwipe for the three records to check before you choose, and who to call if something goes wrong after move-in.\n\nNJ Long-Term Care Ombudsman: 1-877-582-6995.\n\nSources: Medicare Care Compare; CMS Special Focus Facility Program, monthly list; NJ Office of the Long-Term Care Ombudsman. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #NursingHome #FacilityCheck #AgingParents #NJCareCompass",
       "categories": [],
       "source_type": "manual",
-      "post_source": "posts/manual/2026-12-08_traveling-with-aging-parent_post.json",
+      "post_source": "posts/manual/2026-12-08_facility-check-nursing-home_post.json",
       "approved": true,
       "publish_to_site": true,
       "priority": 111,
       "caption_field": null,
-      "configured_slide_folder": "2026-12-08_traveling-with-aging-parent",
-      "slide_folder": "2026-12-08_traveling-with-aging-parent",
+      "configured_slide_folder": "2026-12-08_facility-check-nursing-home",
+      "slide_folder": "2026-12-08_facility-check-nursing-home",
       "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/04_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/05_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/06_action.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_traveling-with-aging-parent/07_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_facility-check-nursing-home/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_facility-check-nursing-home/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_facility-check-nursing-home/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_facility-check-nursing-home/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_facility-check-nursing-home/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-12-08_facility-check-nursing-home/06_outro.png"
       ],
       "media_files": [
         "01_hook.png",
         "02_changes.png",
         "03_changes.png",
-        "04_changes.png",
-        "05_verdict.png",
-        "06_action.png",
-        "07_outro.png"
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
       ],
-      "slide_count": 7,
+      "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "Holiday travel is hard enough. Add a parent who tires easily, takes several medications or gets confused in new places, and it takes real planning.\n\nSwipe for what to pack, how to get help at the airport, what to watch for on long drives, and the insurance question to ask before you leave.\n\nTwo numbers worth saving:\nTSA Cares, 855-787-2227. Call at least 72 hours before a flight to request help at security.\nNJ SHIP, 1-800-792-8820. Free Medicare counseling, including what's covered when you travel.\n\nCaring for someone with memory loss? The Alzheimer's Association 24/7 Helpline is 800-272-3900.\n\nSources: TSA (Passenger Support / TSA Cares); U.S. DOT, Air Carrier Access Act guidance; Medicare.gov; Alzheimer's Association, Traveling and Dementia. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #AgingParents #Caregiving #HolidayTravel #ElderCare #NJCareCompass",
-      "caption_sha256": "dd6d0a798a3543c36833dbb595b4cc4796613f12e38c6b6986be6d08d3cb97dc",
+      "instagram_caption": "Every nursing home in New Jersey that takes Medicare or Medicaid has a public record: star ratings, inspection reports, and for the lowest performers, a spot on a federal watch list. Most families never look.\n\nSwipe for the three records to check before you choose, and who to call if something goes wrong after move-in.\n\nNJ Long-Term Care Ombudsman: 1-877-582-6995.\n\nSources: Medicare Care Compare; CMS Special Focus Facility Program, monthly list; NJ Office of the Long-Term Care Ombudsman. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #NursingHome #FacilityCheck #AgingParents #NJCareCompass",
+      "caption_sha256": "41321f82fb5c131c9d1dfa31e966d485a48a94a64ab43f93a59adcc7a40cf422",
       "published": false,
       "publishable": true,
       "status": "queued",
@@ -1065,6 +1088,86 @@
       "eligible_today": false,
       "scheduled_for": "2026-12-11",
       "waiting_reason": "not_before:2026-12-11"
+    },
+    {
+      "app": "Medicare Drug Price Negotiation",
+      "accent": "#1D4ED8",
+      "headline": "Medicare negotiated drug list updated November 2026",
+      "subhead": "New deselections and 2028 price facts added",
+      "effective": "Updated November 24, 2026",
+      "changes": [
+        "New fact sheet and infographic published for negotiated prices taking effect in 2028",
+        "By March 1, 2027, CMS will post a price explanation for each drug with an agreed price for 2028",
+        "Five more drugs deselected: Farxiga, Januvia, Janumet/Janumet XR, Ofev, and Pomalyst removed January 1, 2028",
+        "Xeljanz/Xeljanz XR and Xolair deselected with removal effective January 1, 2029"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "People on Medicare Part D or Part B who take these drugs should check whether negotiated prices still apply to their medication.",
+      "actions": [
+        "Check if your drug is on the updated negotiated price list at Medicare.gov",
+        "Ask your pharmacist whether your drug's negotiated price still applies in 2027 or 2028",
+        "Call 1-800-MEDICARE or NJ SHIP at 1-800-792-8820 with coverage questions"
+      ],
+      "caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.",
+      "hashtags": [
+        "medicare",
+        "medicarepartd",
+        "prescriptiondrugs",
+        "drugprices",
+        "medicarenegotiation",
+        "njseniors",
+        "seniorhealth",
+        "caregiving"
+      ],
+      "video_script": "Here is an update Medicare beneficiaries in New Jersey should know about. CMS just updated its negotiated drug price list in November 2026. Several drugs, including Farxiga, Januvia, Janumet, Ofev, and Pomalyst, have been removed from the negotiated price program starting January 1, 2028. Xeljanz and Xolair follow in 2029. If you or someone you care for takes any of these medications, now is the time to check your coverage. Full breakdown in the carousel - follow at N J care compass for the next change.",
+      "categories": [
+        {
+          "tag": "coverage",
+          "explanation": "Multiple drugs are being removed from the Medicare negotiated price program, meaning the lower Maximum Fair Price will no longer apply to those medications after their removal dates."
+        }
+      ],
+      "caption_rendered": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
+      "not_before": "2026-12-15",
+      "id": "2026-11-24_medicare-negotiated-drug-prices",
+      "source_type": "diff",
+      "post_source": "posts/benefits/2026-11-24_medicare-negotiated-drug-prices_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 200,
+      "caption_field": null,
+      "configured_slide_folder": "2026-11-24_medicare-negotiated-drug-prices",
+      "slide_folder": "2026-11-24_medicare-negotiated-drug-prices",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-24",
+      "instagram_caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
+      "caption_sha256": "193fc121a4933a9cdb1f28fa65a910b1bece81c1fa163169e8ddeeb44fa8b3e1",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": false,
+      "scheduled_for": "2026-12-15",
+      "waiting_reason": "not_before:2026-12-15"
     },
     {
       "id": "2026-11-21_care-facility-checklist_topic-care-facility-checklist-care-compare-howto",
@@ -1289,8 +1392,8 @@
       "eligible_today": false
     }
   ],
-  "total": 17,
-  "queued_count": 14,
+  "total": 19,
+  "queued_count": 15,
   "published_count": 3,
   "baseline_count": 0,
   "held_count": 0,

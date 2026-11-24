@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (County Compass: Bergen)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+County Compass: Bergen County. Bergen County Division of Senior Services: Senior HelpLine 201-336-7400. One Bergen County Plaza, 2nd floor, Hackensack. Its Information & Assistance / Care Management unit is Bergen's Aging & Disability Resource Connection (ADRC), for older adults, caregivers and adults 18+ with a disability. Ask about care management, Ride Connect transportation, and 10 county-run senior activity centers, each with a meal program. Before you call, have your parent's town, age, what's getting harder (meals, rides, bathing, bills) and their insurance. Our verdict: why it helps. You don't need to have it all figured out. Calling and asking "where do I start?" is exactly what this office is for. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'County Compass: Bergen County. You don't need to have it all figured out. Calling and asking "where do I start?" is exactly what this office is for.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

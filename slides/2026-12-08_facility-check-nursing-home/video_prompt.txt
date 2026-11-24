@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Facility Check)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Facility Check: choosing a North Jersey nursing home?. Care Compare star ratings: Medicare.gov/care-compare rates every Medicare- and Medicaid-certified nursing home on inspections, staffing and quality. Look at each rating, not just the overall stars. Inspection reports: on the same page, open the inspection results. Look for deficiencies marked as harm or "immediate jeopardy," and problems that repeat year after year. The Special Focus Facility list: CMS publishes a monthly list of nursing homes with a history of serious quality problems, plus candidates that qualify but haven't been selected. Then visit more than once, including a mealtime or evening. Watch how staff talk with residents and how quickly call lights are answered. Our verdict: why it helps. If something's wrong after move-in, the NJ Long-Term Care Ombudsman investigates concerns for residents 60+. Complaints are confidential, and anonymous complaints are accepted. In an emergency, call 911. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Facility Check: choosing a North Jersey nursing home?. If something's wrong after move-in, the NJ Long-Term Care Ombudsman investigates concerns for residents 60+. Complaints are confidential, and anonymous complaints are accepted. In an emergency, call 911.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
