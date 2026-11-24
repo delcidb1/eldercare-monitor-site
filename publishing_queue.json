@@ -1,8 +1,81 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-23T22:13:33Z",
+  "generated_at": "2026-11-24T00:43:41Z",
   "post_date": "2026-11-23",
   "posts": [
+    {
+      "app": "Medicare Drug Price Negotiation",
+      "accent": "#1D4ED8",
+      "headline": "Medicare negotiated drug list updated November 2026",
+      "subhead": "New deselections and 2028 price facts added",
+      "effective": "Updated November 24, 2026",
+      "changes": [
+        "New fact sheet and infographic published for negotiated prices taking effect in 2028",
+        "By March 1, 2027, CMS will post a price explanation for each drug with an agreed price for 2028",
+        "Five more drugs deselected: Farxiga, Januvia, Janumet/Janumet XR, Ofev, and Pomalyst removed January 1, 2028",
+        "Xeljanz/Xeljanz XR and Xolair deselected with removal effective January 1, 2029"
+      ],
+      "verdict": "WORTH_KNOWING",
+      "verdict_text": "People on Medicare Part D or Part B who take these drugs should check whether negotiated prices still apply to their medication.",
+      "actions": [
+        "Check if your drug is on the updated negotiated price list at Medicare.gov",
+        "Ask your pharmacist whether your drug's negotiated price still applies in 2027 or 2028",
+        "Call 1-800-MEDICARE or NJ SHIP at 1-800-792-8820 with coverage questions"
+      ],
+      "caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.",
+      "hashtags": [
+        "medicare",
+        "medicarepartd",
+        "prescriptiondrugs",
+        "drugprices",
+        "medicarenegotiation",
+        "njseniors",
+        "seniorhealth",
+        "caregiving"
+      ],
+      "video_script": "Here is an update Medicare beneficiaries in New Jersey should know about. CMS just updated its negotiated drug price list in November 2026. Several drugs, including Farxiga, Januvia, Janumet, Ofev, and Pomalyst, have been removed from the negotiated price program starting January 1, 2028. Xeljanz and Xolair follow in 2029. If you or someone you care for takes any of these medications, now is the time to check your coverage. Full breakdown in the carousel - follow at N J care compass for the next change.",
+      "categories": [
+        {
+          "tag": "coverage",
+          "explanation": "Multiple drugs are being removed from the Medicare negotiated price program, meaning the lower Maximum Fair Price will no longer apply to those medications after their removal dates."
+        }
+      ],
+      "caption_rendered": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
+      "id": "2026-11-24_medicare-negotiated-drug-prices",
+      "source_type": "diff",
+      "post_source": "posts/benefits/2026-11-24_medicare-negotiated-drug-prices_post.json",
+      "slide_folder": "2026-11-24_medicare-negotiated-drug-prices",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_medicare-negotiated-drug-prices/06_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_verdict.png",
+        "05_action.png",
+        "06_outro.png"
+      ],
+      "slide_count": 6,
+      "has_slides": true,
+      "media_error": "",
+      "date": "2026-11-24",
+      "priority": 100,
+      "instagram_caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
+      "caption_sha256": "193fc121a4933a9cdb1f28fa65a910b1bece81c1fa163169e8ddeeb44fa8b3e1",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true
+    },
     {
       "id": "2026-11-24_caregiver-support-hub",
       "date": "2026-11-24",
@@ -1214,11 +1287,11 @@
       "eligible_today": false
     }
   ],
-  "total": 16,
-  "queued_count": 14,
+  "total": 17,
+  "queued_count": 15,
   "published_count": 2,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }

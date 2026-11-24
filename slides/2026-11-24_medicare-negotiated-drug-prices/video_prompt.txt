@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Medicare Drug Price Negotiation)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Here is an update Medicare beneficiaries in New Jersey should know about. CMS just updated its negotiated drug price list in November 2026. Several drugs, including Farxiga, Januvia, Janumet, Ofev, and Pomalyst, have been removed from the negotiated price program starting January 1, 2028. Xeljanz and Xolair follow in 2029. If you or someone you care for takes any of these medications, now is the time to check your coverage. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #1D4ED8 accent lighting looks at the
+camera and says: 'Medicare negotiated drug list updated November 2026. People on Medicare Part D or Part B who take these drugs should check whether negotiated prices still apply to their medication.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
