@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T02:12:45Z",
+  "generated_at": "2026-11-24T03:04:14Z",
   "post_date": "2026-11-23",
   "posts": [
     {
@@ -74,7 +74,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true
+      "eligible_today": false,
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-11-24_caregiver-support-hub",
@@ -134,15 +135,16 @@
       "media_error": "",
       "instagram_caption": "Caring for a parent, spouse or relative in New Jersey? You don't have to figure out every service on your own.\n\nNew Jersey's Caregiver Support Hub brings resources, training and support information together in one place. Start at caregiver.nj.gov, or call 877-222-3737 to reach your county's Aging & Disability Resource Connection.\n\nIf you help someone with rides, meals, bills or medications, you're a caregiver too. Save this for when you need it.\n\nSource: NJ Department of Human Services, Nov 17, 2026. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Caregiving #AgingParents #ElderCare #NJCareCompass",
       "caption_sha256": "465191f9a2ae8bbf2a37cdb6305ddbc2bb65c7d80d8121e2dcebb13260e5d43c",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-23T22:26:09Z",
+      "instagram_post_id": "18082984406711471",
+      "instagram_permalink": "https://www.instagram.com/p/DgGcvBOn7mh/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "scheduled_for": "2026-11-24",
-      "waiting_reason": "not_before:2026-11-24"
+      "eligible_today": false
     },
     {
       "id": "2026-11-25_thanksgiving-what-to-notice",
@@ -1288,10 +1290,10 @@
     }
   ],
   "total": 17,
-  "queued_count": 15,
-  "published_count": 2,
+  "queued_count": 14,
+  "published_count": 3,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }

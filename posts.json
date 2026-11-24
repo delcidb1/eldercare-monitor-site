@@ -659,14 +659,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/manual/2026-11-24_caregiver-support-hub_post.json",
     "effective_date": "2026-11-24",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DgGcvBOn7mh/",
+    "instagram_post_id": "18082984406711471",
+    "published_at": "2026-11-23T22:26:09Z"
   },
   {
     "id": "2026-11-22_weekly-recap",
