@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T03:44:23Z",
-  "post_date": "2026-11-24",
+  "generated_at": "2026-11-25T14:00:12Z",
+  "post_date": "2026-11-25",
   "posts": [
     {
       "id": "2026-11-24_traveling-with-aging-parent",
@@ -393,10 +393,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "scheduled_for": "2026-11-25",
-      "lane": "scheduled",
-      "waiting_reason": "not_before:2026-11-25"
+      "eligible_today": true,
+      "lane": "scheduled"
     },
     {
       "id": "2026-12-03_medicare-social-security-2027",
@@ -834,7 +832,7 @@
       "date": "2026-12-04",
       "app": "County Compass: Bergen",
       "post_type": "guide",
-      "cover_query": "tree lined street winter suburb",
+      "cover_query": "cup of tea hands",
       "effective": "December 2026",
       "headline": "County Compass: Bergen County",
       "subhead": "Caring for an older adult in Bergen? Here's your first call.",
@@ -1558,5 +1556,5 @@
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 2
 }
