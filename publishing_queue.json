@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T22:48:42Z",
+  "generated_at": "2026-11-25T22:49:08Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -353,10 +353,13 @@
         "ClassIrecall",
         "njcarecompass"
       ],
-      "approved": false,
-      "draft": true,
+      "approved": true,
+      "draft": false,
       "approval_note": "AI-drafted from the recall record; bullets passed the grounding guard. Recall posts always need approval - open the source link first.",
       "caption_rendered": "A Class I recall has been issued for UMARY Acido Hialuronico, also sold as New Hyaluronic Acid 850mg Sealed 30 Caps, distributed nationwide across the USA. FDA laboratory analysis found the supplement contains three undeclared prescription-strength ingredients: Dexamethasone, a steroid; Diclofenac, an anti-inflammatory; and Omeprazole, a stomach acid drug. None of these were listed on the label. The product was also marketed without an FDA-approved application. Hidden prescription drugs can interact with existing medications and are especially risky for older adults. If you or someone you care for has this product, stop using it and speak with a doctor or pharmacist right away. Source: FDA, Recall Number D-0189-2027\n\n#recallalert #supplementsafety #FDArecall #olderadults #caregiversupport #medicationsafety #ClassIrecall #njcarecompass #NJCareCompass",
+      "publish_to_site": true,
+      "approved_at": "2026-11-25T22:49:07+00:00",
+      "approved_via": "email",
       "source_type": "recall",
       "post_source": "posts/recalls/2026-11-25_recall_ibeautistore-com_post.json",
       "slide_folder": "2026-11-25_recall_ibeautistore-com",
@@ -383,12 +386,12 @@
       "instagram_caption": "A Class I recall has been issued for UMARY Acido Hialuronico, also sold as New Hyaluronic Acid 850mg Sealed 30 Caps, distributed nationwide across the USA. FDA laboratory analysis found the supplement contains three undeclared prescription-strength ingredients: Dexamethasone, a steroid; Diclofenac, an anti-inflammatory; and Omeprazole, a stomach acid drug. None of these were listed on the label. The product was also marketed without an FDA-approved application. Hidden prescription drugs can interact with existing medications and are especially risky for older adults. If you or someone you care for has this product, stop using it and speak with a doctor or pharmacist right away. Source: FDA, Recall Number D-0189-2027\n\n#recallalert #supplementsafety #FDArecall #olderadults #caregiversupport #medicationsafety #ClassIrecall #njcarecompass #NJCareCompass",
       "caption_sha256": "03b14ccd748dee43af521141708c23d1ebc19545994fb589cc65db27e9231ce4",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
+      "eligible_today": true,
       "lane": "news"
     },
     {
@@ -1815,10 +1818,10 @@
     }
   ],
   "total": 24,
-  "queued_count": 15,
+  "queued_count": 16,
   "published_count": 7,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 2
+  "eligible_today_count": 3
 }

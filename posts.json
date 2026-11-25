@@ -619,6 +619,51 @@
     "published_at": ""
   },
   {
+    "id": "2026-11-25_recall_ibeautistore-com",
+    "app": "IBeautiStore.com",
+    "doc": "Drug recall",
+    "post_type": "recall",
+    "accent": "#DC2626",
+    "headline": "UMARY Hyaluronic Acid capsules recalled nationwide",
+    "subhead": "Hidden prescription drugs found inside supplement capsules",
+    "effective": "Announced November 18, 2026",
+    "changes": [
+      "Product contains undeclared Dexamethasone, a prescription steroid",
+      "Undeclared Diclofenac, a prescription anti-inflammatory, also found",
+      "Undeclared Omeprazole, a prescription stomach drug, also found",
+      "Marketed without an FDA-approved application; recall is ongoing"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Anyone using this supplement should stop immediately. Hidden prescription drugs can cause serious harm, especially for older adults.",
+    "actions": [
+      "Stop using UMARY Acido Hialuronico 850mg capsules immediately",
+      "Talk to your doctor or pharmacist before stopping any related treatment",
+      "Contact IBeautiStore.com or your retailer about returning the product"
+    ],
+    "categories": [],
+    "source_doc": "https://www.accessdata.fda.gov/scripts/ires/index.cfm",
+    "date": "2026-11-25",
+    "slide_folder": "2026-11-25_recall_ibeautistore-com",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/recalls/2026-11-25_recall_ibeautistore-com_post.json",
+    "effective_date": "2026-11-25",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-25_nj-storm-thanksgiving",
     "app": "NJ Storm Alert",
     "post_type": "alert",
