@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T01:06:43Z",
+  "generated_at": "2026-11-25T02:08:08Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -68,8 +68,8 @@
       "caption_sha256": "b7d669ae667d2520fa39e038ccf04427ddf8463c91ae5120e5ecd62195d66a39",
       "published": true,
       "published_at": "2026-11-24T14:05:35Z",
-      "instagram_post_id": "17941480704123372",
       "instagram_permalink": "https://www.instagram.com/p/DgIIQ70IJrU/",
+      "instagram_post_id": "17941480704123372",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -145,8 +145,8 @@
       "caption_sha256": "193fc121a4933a9cdb1f28fa65a910b1bece81c1fa163169e8ddeeb44fa8b3e1",
       "published": true,
       "published_at": "2026-11-24T17:03:27Z",
-      "instagram_post_id": "18136467592702134",
       "instagram_permalink": "https://www.instagram.com/p/DgIcnnKINl-/",
+      "instagram_post_id": "18136467592702134",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
@@ -156,57 +156,44 @@
       "lane": "news"
     },
     {
+      "id": "2026-11-24_stay-nj-income-limit",
+      "date": "2026-11-24",
       "app": "NJ Stay NJ",
       "accent": "#0E7490",
-      "headline": "NJ Stay NJ income limit jumps to $500,000",
-      "subhead": "More homeowners may now qualify for property tax relief",
-      "effective": "Updated November 24, 2026",
+      "cover_query": "house winter snow",
+      "effective": "FY2027 budget, signed June 30, 2026",
+      "headline": "Stay NJ's income limit is now $200,000",
+      "subhead": "What senior homeowners should know before 2027 payments.",
       "changes": [
-        "Annual income limit raised from $200,000 to $500,000 for eligibility",
-        "More NJ homeowners subject to property taxes may now qualify",
-        "Renters and mobile home owners remain ineligible, as before",
-        "Social Security disability recipients under 65 explicitly added to ineligible list"
+        "The state budget signed June 30, 2026 cut the Stay NJ income limit from $500,000 to $200,000. Payments in 2027 go only to households at or under $200,000.",
+        "2027 maximum benefit: up to $100,000 income, $6,500. $100,000 to $150,000, $5,000. $150,000 to $200,000, $4,000. Over $200,000, $0.",
+        "Who qualifies: age 65 or older during 2025, owned and lived in the home all of 2025, and the home is subject to property taxes (or P.I.L.O.T.).",
+        "Renters, mobile home owners, and SSDI recipients under 65 are not eligible."
       ],
-      "verdict": "WORTH_KNOWING",
-      "verdict_text": "NJ homeowners previously over the $200,000 income limit may now qualify. SSDI recipients under 65 are clearly excluded.",
+      "verdict": "IMPORTANT",
+      "verdict_text": "If your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. The 2025 benefit is paid in February and May 2027.",
       "actions": [
-        "Check your combined household income against the new $500,000 limit",
-        "Visit nj.gov/treasury/taxation/staynj for full eligibility details",
-        "Call NJ SHIP at 1-800-792-8820 if you need help understanding your options"
+        "Check status: nj.gov/treasury/taxation/staynj",
+        "Use the \"Check 2025 Benefit Status\" tool",
+        "Each applicant gets a statement with their Senior Freeze, ANCHOR and Stay NJ amounts"
       ],
-      "caption": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.",
-      "hashtags": [
-        "njstaynj",
-        "newjersey",
-        "propertytax",
-        "seniorbenefits",
-        "njseniors",
-        "caregiver",
-        "taxrelief"
+      "not_before": "2026-11-24",
+      "how_to_sources": [
+        "https://www.nj.gov/treasury/taxation/staynj/"
       ],
-      "video_script": "Big news for New Jersey homeowners. The Stay NJ property tax relief program just raised its income limit from $200,000 all the way to $500,000. That means a lot more people who own their homes in New Jersey could now qualify for this benefit. Important note: renters, mobile home owners, and Social Security disability recipients under 65 are still not eligible. Full breakdown in the carousel - follow at NJ Care Compass for the next change.",
-      "categories": [
-        {
-          "tag": "eligibility",
-          "explanation": "The annual income ceiling for Stay NJ was raised from $200,000 to $500,000, expanding the pool of homeowners who can qualify."
-        },
-        {
-          "tag": "eligibility",
-          "explanation": "Social Security disability benefit recipients under age 65 were explicitly added to the list of people who do not qualify for Stay NJ."
-        }
-      ],
-      "caption_rendered": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.\n\n#njstaynj #newjersey #propertytax #seniorbenefits #njseniors #caregiver #taxrelief #NJCareCompass",
-      "id": "2026-11-24_nj-stay-nj",
-      "source_type": "diff",
-      "post_source": "posts/benefits/2026-11-24_nj-stay-nj_post.json",
-      "slide_folder": "2026-11-24_nj-stay-nj",
+      "source_doc": "https://www.nj.gov/treasury/taxation/staynj/",
+      "caption_rendered": "If your parent counted on Stay NJ property tax relief, the rules have changed. The state budget signed June 30 cut the income limit from $500,000 to $200,000. Payments in 2027 go only to senior homeowners at or under that limit, and the maximum benefit gets smaller as income rises: $6,500, $5,000, or $4,000.\n\nIf your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. Swipe for the tiers, who qualifies, and how to check their benefit status.\n\nSource: NJ Division of Taxation, Stay NJ program page, updated Nov 24, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #StayNJ #PropertyTax #NJSeniors #AgingParents #NJCareCompass",
+      "categories": [],
+      "source_type": "manual",
+      "post_source": "posts/manual/2026-11-24_stay-nj-income-limit_post.json",
+      "slide_folder": "2026-11-24_stay-nj-income-limit",
       "media_urls": [
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/01_hook.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/02_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/03_changes.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/04_verdict.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/05_action.png",
-        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_nj-stay-nj/06_outro.png"
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/04_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/05_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/06_outro.png"
       ],
       "media_files": [
         "01_hook.png",
@@ -219,21 +206,18 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "date": "2026-11-24",
       "priority": 100,
-      "instagram_caption": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.\n\n#njstaynj #newjersey #propertytax #seniorbenefits #njseniors #caregiver #taxrelief #NJCareCompass",
-      "caption_sha256": "7f12cd5a8be5d9d7026f9bb57a1602470e95fa90a9428cf37f846566acde7bad",
-      "published": true,
-      "published_at": "2026-11-24T23:02:34Z",
-      "instagram_post_id": "18088748945720445",
-      "instagram_permalink": "https://www.instagram.com/p/DgJFufcm4F1/",
-      "publishable": false,
-      "status": "published",
-      "instagram_status": "published",
-      "site_status": "approved",
+      "instagram_caption": "If your parent counted on Stay NJ property tax relief, the rules have changed. The state budget signed June 30 cut the income limit from $500,000 to $200,000. Payments in 2027 go only to senior homeowners at or under that limit, and the maximum benefit gets smaller as income rises: $6,500, $5,000, or $4,000.\n\nIf your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. Swipe for the tiers, who qualifies, and how to check their benefit status.\n\nSource: NJ Division of Taxation, Stay NJ program page, updated Nov 24, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #StayNJ #PropertyTax #NJSeniors #AgingParents #NJCareCompass",
+      "caption_sha256": "79acd07661c9eb709f9c371946bfd559da0de108ac686fe060d8f674aa9341fd",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "requires_review",
       "post_days": "any",
       "eligible_today": false,
-      "lane": "news"
+      "lane": "scheduled",
+      "waiting_reason": "already_posted_today"
     },
     {
       "id": "2026-12-04_long-distance-family-check-in",
@@ -1562,8 +1546,8 @@
     }
   ],
   "total": 21,
-  "queued_count": 14,
-  "published_count": 6,
+  "queued_count": 15,
+  "published_count": 5,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,

@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (NJ Stay NJ)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Stay NJ's income limit is now $200,000. The state budget signed June 30, 2026 cut the Stay NJ income limit from $500,000 to $200,000. Payments in 2027 go only to households at or under $200,000. 2027 maximum benefit: up to $100,000 income, $6,500. $100,000 to $150,000, $5,000. $150,000 to $200,000, $4,000. Over $200,000, $0. Who qualifies: age 65 or older during 2025, owned and lived in the home all of 2025, and the home is subject to property taxes (or P.I.L.O.T.). Renters, mobile home owners, and SSDI recipients under 65 are not eligible. Our verdict: important. If your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. The 2025 benefit is paid in February and May 2027. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #0E7490 accent lighting looks at the
+camera and says: 'Stay NJ's income limit is now $200,000. If your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. The 2025 benefit is paid in February and May 2027.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
