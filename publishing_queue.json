@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T14:00:12Z",
+  "generated_at": "2026-11-25T14:06:56Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -328,7 +328,7 @@
       "not_after": "2026-11-28",
       "app": "Holiday Visits",
       "post_type": "guide",
-      "cover_query": "thanksgiving table family",
+      "cover_query": "pumpkin pie autumn table",
       "effective": "Thanksgiving 2026",
       "headline": "Home for Thanksgiving? Notice gently.",
       "subhead": "A visit can make slow changes easier to spot.",
