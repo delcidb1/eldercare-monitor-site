@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T02:08:08Z",
+  "generated_at": "2026-11-25T02:10:52Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -184,8 +184,14 @@
       "source_doc": "https://www.nj.gov/treasury/taxation/staynj/",
       "caption_rendered": "If your parent counted on Stay NJ property tax relief, the rules have changed. The state budget signed June 30 cut the income limit from $500,000 to $200,000. Payments in 2027 go only to senior homeowners at or under that limit, and the maximum benefit gets smaller as income rises: $6,500, $5,000, or $4,000.\n\nIf your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. Swipe for the tiers, who qualifies, and how to check their benefit status.\n\nSource: NJ Division of Taxation, Stay NJ program page, updated Nov 24, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #StayNJ #PropertyTax #NJSeniors #AgingParents #NJCareCompass",
       "categories": [],
+      "not_after": "2026-11-24",
       "source_type": "manual",
       "post_source": "posts/manual/2026-11-24_stay-nj-income-limit_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 100,
+      "caption_field": null,
+      "configured_slide_folder": "2026-11-24_stay-nj-income-limit",
       "slide_folder": "2026-11-24_stay-nj-income-limit",
       "media_urls": [
         "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-24_stay-nj-income-limit/01_hook.png",
@@ -206,14 +212,13 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "priority": 100,
       "instagram_caption": "If your parent counted on Stay NJ property tax relief, the rules have changed. The state budget signed June 30 cut the income limit from $500,000 to $200,000. Payments in 2027 go only to senior homeowners at or under that limit, and the maximum benefit gets smaller as income rises: $6,500, $5,000, or $4,000.\n\nIf your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. Swipe for the tiers, who qualifies, and how to check their benefit status.\n\nSource: NJ Division of Taxation, Stay NJ program page, updated Nov 24, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #StayNJ #PropertyTax #NJSeniors #AgingParents #NJCareCompass",
       "caption_sha256": "79acd07661c9eb709f9c371946bfd559da0de108ac686fe060d8f674aa9341fd",
       "published": false,
       "publishable": true,
       "status": "queued",
       "instagram_status": "queued",
-      "site_status": "requires_review",
+      "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
       "lane": "scheduled",
