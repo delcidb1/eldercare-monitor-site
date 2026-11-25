@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-24T23:54:19Z",
+  "generated_at": "2026-11-25T01:06:43Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -66,13 +66,16 @@
       "media_error": "",
       "instagram_caption": "Holiday travel is hard enough. Add a parent who tires easily, takes several medications or gets confused in new places, and it takes real planning.\n\nSwipe for what to pack, how to get help at the airport, what to watch for on long drives, and the insurance question to ask before you leave.\n\nTwo numbers worth saving:\nTSA Cares, 855-787-2227. Flying this week? Ask any TSA officer at the airport for a Passenger Support Specialist. For future trips, call at least 72 hours ahead.\nNJ SHIP, 1-800-792-8820. Free Medicare counseling, including what's covered when you travel.\n\nCaring for someone with memory loss? The Alzheimer's Association 24/7 Helpline is 800-272-3900.\n\nSources: TSA (Passenger Support / TSA Cares); U.S. DOT, Air Carrier Access Act guidance; Medicare.gov; Alzheimer's Association, Traveling and Dementia. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #AgingParents #Caregiving #HolidayTravel #ElderCare #NJCareCompass",
       "caption_sha256": "b7d669ae667d2520fa39e038ccf04427ddf8463c91ae5120e5ecd62195d66a39",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-24T14:05:35Z",
+      "instagram_post_id": "17941480704123372",
+      "instagram_permalink": "https://www.instagram.com/p/DgIIQ70IJrU/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "scheduled"
     },
     {
@@ -140,13 +143,16 @@
       "priority": 100,
       "instagram_caption": "CMS updated the Medicare Drug Price Negotiation page on November 23, 2026, adding new fact sheets and an infographic for negotiated prices that take effect in 2028. Several drugs have been deselected from the program: Farxiga, Januvia, Janumet, Janumet XR, Ofev, and Pomalyst will no longer carry negotiated prices starting January 1, 2028, and Xeljanz, Xeljanz XR, and Xolair follow on January 1, 2029. If you are on Medicare and take any of these drugs, check Medicare.gov or call 1-800-MEDICARE to understand what this means for your costs. NJ residents can also reach NJ SHIP at 1-800-792-8820.\n\n#medicare #medicarepartd #prescriptiondrugs #drugprices #medicarenegotiation #njseniors #seniorhealth #caregiving #NJCareCompass",
       "caption_sha256": "193fc121a4933a9cdb1f28fa65a910b1bece81c1fa163169e8ddeeb44fa8b3e1",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-24T17:03:27Z",
+      "instagram_post_id": "18136467592702134",
+      "instagram_permalink": "https://www.instagram.com/p/DgIcnnKINl-/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "news"
     },
     {
@@ -217,13 +223,16 @@
       "priority": 100,
       "instagram_caption": "New Jersey updated the Stay NJ property tax relief program as of November 24, 2026. The annual income limit for eligibility has risen from $200,000 to $500,000, meaning many more NJ homeowners subject to property taxes could now qualify. At the same time, the updated page makes clear that Social Security disability benefit recipients under age 65 are not eligible, along with renters and mobile home owners. If you or a family member owns a home in New Jersey, check your combined household income against the new limit at nj.gov/treasury/taxation/staynj.\n\n#njstaynj #newjersey #propertytax #seniorbenefits #njseniors #caregiver #taxrelief #NJCareCompass",
       "caption_sha256": "7f12cd5a8be5d9d7026f9bb57a1602470e95fa90a9428cf37f846566acde7bad",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-24T23:02:34Z",
+      "instagram_post_id": "18088748945720445",
+      "instagram_permalink": "https://www.instagram.com/p/DgJFufcm4F1/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "news"
     },
     {
@@ -1549,14 +1558,14 @@
       "post_days": "any",
       "eligible_today": false,
       "lane": "scheduled",
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     }
   ],
   "total": 21,
-  "queued_count": 17,
-  "published_count": 3,
+  "queued_count": 14,
+  "published_count": 6,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 3
+  "eligible_today_count": 0
 }
