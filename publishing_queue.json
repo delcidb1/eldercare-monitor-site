@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T14:17:54Z",
+  "generated_at": "2026-11-25T20:03:26Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -214,13 +214,16 @@
       "media_error": "",
       "instagram_caption": "If your parent counted on Stay NJ property tax relief, the rules have changed. The state budget signed June 30 cut the income limit from $500,000 to $200,000. Payments in 2027 go only to senior homeowners at or under that limit, and the maximum yearly benefit gets smaller as income rises: $6,500, $5,000, or $4,000. The state notes those maximums assume no Stay NJ changes in next year's budget.\n\nIf your parent's household income is over $200,000, they shouldn't count on a Stay NJ payment in 2027. Swipe for the tiers, who qualifies, and how to check their benefit status.\n\nSource: NJ Division of Taxation, Stay NJ program page, updated Nov 24, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #StayNJ #PropertyTax #NJSeniors #AgingParents #NJCareCompass",
       "caption_sha256": "e88864c35d93f23a9f76154d5c3dc30b1e4f5b4fd89a3fbddf422d587610b669",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-25T02:52:23Z",
+      "instagram_post_id": "18027776702942074",
+      "instagram_permalink": "https://www.instagram.com/p/DgJf6KhjsUe/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "news"
     },
     {
@@ -387,13 +390,16 @@
       "media_error": "",
       "instagram_caption": "Thanksgiving is often the first time in months that families are all in one room. If something about Mom or Dad seems different this year, you're not imagining it, and you're not alone.\n\nSwipe for what to notice and how to start the conversation, gently. One change doesn't mean a crisis. It means it's time to pay attention, compare notes with family, and plan the next talk.\n\nNovember is National Family Caregivers Month. If you're already helping a parent, you're a caregiver too.\n\nFree help in NJ: 877-222-3737 (your county's Aging & Disability Resource Connection) · Alzheimer's Association 24/7 Helpline: 800-272-3900.\nIf someone says they feel hopeless or have no reason to live, call or text 988.\n\nSources: National Institute on Aging, \"What Are the Signs That an Aging Parent Needs Help?\"; Alzheimer's Association, 10 Warning Signs of Alzheimer's; NJ Department of Human Services. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #AgingParents #Caregiving #Thanksgiving #FamilyCaregiversMonth #ElderCare #NJCareCompass",
       "caption_sha256": "9799dafbc192cf923ecce558b99a0a1f9ca14d28824837131a24c47f8902115c",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-25T14:07:49Z",
+      "instagram_post_id": "18111067688345479",
+      "instagram_permalink": "https://www.instagram.com/p/DgKtUMNG8mq/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "scheduled"
     },
     {
@@ -1551,10 +1557,10 @@
     }
   ],
   "total": 21,
-  "queued_count": 15,
-  "published_count": 5,
+  "queued_count": 13,
+  "published_count": 7,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 2
+  "eligible_today_count": 0
 }
