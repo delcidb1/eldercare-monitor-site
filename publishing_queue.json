@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T22:40:21Z",
+  "generated_at": "2026-11-25T22:48:42Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -443,10 +443,13 @@
         "olderadults",
         "caregiversupport"
       ],
-      "approved": false,
-      "draft": true,
+      "approved": true,
+      "draft": false,
       "approval_note": "AI-drafted from the recall record; bullets passed the grounding guard. Recall posts always need approval - open the source link first.",
       "caption_rendered": "Par Health has issued a Class I recall of Brevital Sodium (Methohexital Sodium) For Injection, USP, 500 mg vials, distributed by Par Pharmaceutical of Chestnut Ridge, NY. The recall covers 20,567 vials distributed across the United States and Canada. The reason for the recall is the presence of particulate matter, specifically particles identified as cellulose, found inside the vials. The recall is currently ongoing. If you or a loved one receives care in a facility that may use this injectable medication, ask your care team whether this recall affects your treatment. Source: FDA Drug Enforcement Report, Recall Number D-0156-2027.\n\n#recallalert #FDArecall #BrevitalSodium #medicationrecall #patientsafety #ClassIrecall #olderadults #caregiversupport #NJCareCompass",
+      "publish_to_site": true,
+      "approved_at": "2026-11-25T22:48:42+00:00",
+      "approved_via": "email",
       "source_type": "recall",
       "post_source": "posts/recalls/2026-11-25_recall_par-health_post.json",
       "slide_folder": "2026-11-25_recall_par-health",
@@ -473,12 +476,12 @@
       "instagram_caption": "Par Health has issued a Class I recall of Brevital Sodium (Methohexital Sodium) For Injection, USP, 500 mg vials, distributed by Par Pharmaceutical of Chestnut Ridge, NY. The recall covers 20,567 vials distributed across the United States and Canada. The reason for the recall is the presence of particulate matter, specifically particles identified as cellulose, found inside the vials. The recall is currently ongoing. If you or a loved one receives care in a facility that may use this injectable medication, ask your care team whether this recall affects your treatment. Source: FDA Drug Enforcement Report, Recall Number D-0156-2027.\n\n#recallalert #FDArecall #BrevitalSodium #medicationrecall #patientsafety #ClassIrecall #olderadults #caregiversupport #NJCareCompass",
       "caption_sha256": "8f43104a1efcaaf8712bda46561063f8f374387f6aab7c0c53eb38e71ee52ab7",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
+      "eligible_today": true,
       "lane": "news"
     },
     {
@@ -1812,10 +1815,10 @@
     }
   ],
   "total": 24,
-  "queued_count": 14,
+  "queued_count": 15,
   "published_count": 7,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 2
 }

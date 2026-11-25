@@ -574,6 +574,51 @@
     "published_at": "2026-11-25T14:07:49Z"
   },
   {
+    "id": "2026-11-25_recall_par-health",
+    "app": "Par Health",
+    "doc": "Drug recall",
+    "post_type": "recall",
+    "accent": "#DC2626",
+    "headline": "Par Health recalls Brevital Sodium injection vials",
+    "subhead": "Particulate matter found inside 500 mg vials",
+    "effective": "Announced October 28, 2026",
+    "changes": [
+      "Product: Brevital Sodium (Methohexital Sodium) For Injection, USP, 500 mg/vial",
+      "Reason for recall: presence of particulate matter identified as cellulose",
+      "20,567 vials affected; distributed US Nationwide and Canada",
+      "Recall classification: Class I; recall status is ongoing"
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Class I recall means this product may cause serious harm. Healthcare providers and facilities holding this product should act immediately.",
+    "actions": [
+      "Do not use any vials of Brevital Sodium from this recall.",
+      "Contact your healthcare provider or pharmacist before making any treatment changes.",
+      "Healthcare facilities should quarantine and return affected vials per Par Pharmaceutical guidance."
+    ],
+    "categories": [],
+    "source_doc": "https://www.accessdata.fda.gov/scripts/ires/index.cfm",
+    "date": "2026-11-25",
+    "slide_folder": "2026-11-25_recall_par-health",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/recalls/2026-11-25_recall_par-health_post.json",
+    "effective_date": "2026-11-25",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-25_nj-storm-thanksgiving",
     "app": "NJ Storm Alert",
     "post_type": "alert",
