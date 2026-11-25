@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Par Health)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Par Health recalls Brevital Sodium injection vials. Product: Brevital Sodium (Methohexital Sodium) For Injection, USP, 500 mg/vial Reason for recall: presence of particulate matter identified as cellulose 20,567 vials affected; distributed US Nationwide and Canada Recall classification: Class I; recall status is ongoing Our verdict: important. Class I recall means this product may cause serious harm. Healthcare providers and facilities holding this product should act immediately. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #DC2626 accent lighting looks at the
+camera and says: 'Par Health recalls Brevital Sodium injection vials. Class I recall means this product may cause serious harm. Healthcare providers and facilities holding this product should act immediately.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.
