@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T20:30:43Z",
+  "generated_at": "2026-11-25T21:25:54Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -224,6 +224,82 @@
       "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
+      "lane": "news"
+    },
+    {
+      "id": "2026-11-25_nj-storm-thanksgiving",
+      "date": "2026-11-25",
+      "not_before": "2026-11-25",
+      "not_after": "2026-11-26",
+      "app": "NJ Storm Alert",
+      "post_type": "alert",
+      "accent": "#F59E0B",
+      "cover_query": "rain on window night",
+      "effective": "From 6 p.m. Wed, Nov 25",
+      "headline": "NJ state of emergency: Thanksgiving storm",
+      "subhead": "How to keep an older parent safe through Thursday's nor'easter.",
+      "changes": [
+        "The statewide state of emergency starts at 6 p.m. tonight. The worst conditions come on Thanksgiving Day, improving Friday.",
+        "Expect wind gusts of 50 to 70 mph, 1 to 3 inches of rain, and likely power outages. Travel isn't banned, but officials urge staying off the roads.",
+        "Visiting Mom or Dad? Get there tonight or stay home Thursday. A video call beats a crash. Never drive through a flooded road.",
+        "Tonight: charge phones and medical devices, gather a week of medications and a med list, and put flashlights (not candles) by the bed.",
+        "Oxygen, CPAP or other powered equipment? Check backup batteries and tanks, and decide where your parent goes if the power stays out.",
+        "If the power goes out: never run a generator, grill or gas stove indoors or in a garage. Stay 30 feet from downed wires. Keep the fridge closed."
+      ],
+      "verdict": "IMPORTANT",
+      "verdict_text": "Older adults who live alone or rely on powered medical equipment are most at risk when the lights go out. A plan made tonight beats one made in the dark.",
+      "actions": [
+        "Report outages: PSE&G 800-436-7734 · JCP&L 888-544-4877",
+        "Local help: dial 211 · Emergencies: 911",
+        "Call a parent who lives alone Thursday AM and PM"
+      ],
+      "how_to_sources": [
+        "https://www.nj.gov/governor/",
+        "https://www.weather.gov/okx/",
+        "https://www.nj.gov/bpu/assistance/utility",
+        "https://www.nj.gov/njoem/plan-prepare/registerready.shtml"
+      ],
+      "source_doc": "https://www.nj.gov/governor/; https://www.nj.gov/bpu/assistance/utility",
+      "caption_rendered": "New Jersey is under a state of emergency starting at 6 p.m. tonight. A powerful nor'easter is expected to bring 50 to 70 mph wind gusts, heavy rain and power outages, with the worst of it on Thanksgiving Day.\n\nIf your parent is older, lives alone, or depends on oxygen or other powered equipment, take a few minutes tonight: charge devices, gather medications, and agree on a plan if the lights go out.\n\nTravel isn't banned, but officials are asking everyone to stay off the roads during the storm. If you can't get there tonight, a phone call on Thursday is a good Thanksgiving too.\n\nReport outages: PSE&G 1-800-436-7734 · JCP&L 1-888-544-4877 · Orange & Rockland 1-877-434-4100. Local help: dial 211. Emergencies: 911.\n\nFor next time: NJ Register Ready lets people with disabilities or access and functional needs register with emergency officials. Sign up at registerready.nj.gov or dial 211.\n\nSources: Office of Gov. Mikie Sherrill, state of emergency (Executive Order No. 31), Nov 25, 2026; National Weather Service; NJ Board of Public Utilities, utility contacts; NJ Office of Emergency Management, Register Ready; USDA food safety guidance. Last checked Nov 25, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #NJStorm #Noreaster #StateOfEmergency #AgingParents #NJCareCompass",
+      "categories": [],
+      "source_type": "recall",
+      "post_source": "posts/recalls/2026-11-25_nj-storm-thanksgiving_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 100,
+      "caption_field": null,
+      "configured_slide_folder": "2026-11-25_nj-storm-thanksgiving",
+      "slide_folder": "2026-11-25_nj-storm-thanksgiving",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/03_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/04_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/05_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/06_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-25_nj-storm-thanksgiving/07_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_changes.png",
+        "04_changes.png",
+        "05_verdict.png",
+        "06_action.png",
+        "07_outro.png"
+      ],
+      "slide_count": 7,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "New Jersey is under a state of emergency starting at 6 p.m. tonight. A powerful nor'easter is expected to bring 50 to 70 mph wind gusts, heavy rain and power outages, with the worst of it on Thanksgiving Day.\n\nIf your parent is older, lives alone, or depends on oxygen or other powered equipment, take a few minutes tonight: charge devices, gather medications, and agree on a plan if the lights go out.\n\nTravel isn't banned, but officials are asking everyone to stay off the roads during the storm. If you can't get there tonight, a phone call on Thursday is a good Thanksgiving too.\n\nReport outages: PSE&G 1-800-436-7734 · JCP&L 1-888-544-4877 · Orange & Rockland 1-877-434-4100. Local help: dial 211. Emergencies: 911.\n\nFor next time: NJ Register Ready lets people with disabilities or access and functional needs register with emergency officials. Sign up at registerready.nj.gov or dial 211.\n\nSources: Office of Gov. Mikie Sherrill, state of emergency (Executive Order No. 31), Nov 25, 2026; National Weather Service; NJ Board of Public Utilities, utility contacts; NJ Office of Emergency Management, Register Ready; USDA food safety guidance. Last checked Nov 25, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #NJStorm #Noreaster #StateOfEmergency #AgingParents #NJCareCompass",
+      "caption_sha256": "4ed76b7102674471a03575b2007947e70fbadde7235586815f0e1bee8b65ebbe",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true,
       "lane": "news"
     },
     {
@@ -1556,11 +1632,11 @@
       "waiting_reason": "not_before:2026-12-15"
     }
   ],
-  "total": 21,
-  "queued_count": 13,
+  "total": 22,
+  "queued_count": 14,
   "published_count": 7,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }

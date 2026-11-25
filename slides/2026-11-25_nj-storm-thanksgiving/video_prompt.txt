@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (NJ Storm Alert)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+NJ state of emergency: Thanksgiving storm. The statewide state of emergency starts at 6 p.m. tonight. The worst conditions come on Thanksgiving Day, improving Friday. Expect wind gusts of 50 to 70 mph, 1 to 3 inches of rain, and likely power outages. Travel isn't banned, but officials urge staying off the roads. Visiting Mom or Dad? Get there tonight or stay home Thursday. A video call beats a crash. Never drive through a flooded road. Tonight: charge phones and medical devices, gather a week of medications and a med list, and put flashlights (not candles) by the bed. Oxygen, CPAP or other powered equipment? Check backup batteries and tanks, and decide where your parent goes if the power stays out. If the power goes out: never run a generator, grill or gas stove indoors or in a garage. Stay 30 feet from downed wires. Keep the fridge closed. Our verdict: important. Older adults who live alone or rely on powered medical equipment are most at risk when the lights go out. A plan made tonight beats one made in the dark. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #F59E0B accent lighting looks at the
+camera and says: 'NJ state of emergency: Thanksgiving storm. Older adults who live alone or rely on powered medical equipment are most at risk when the lights go out. A plan made tonight beats one made in the dark.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
