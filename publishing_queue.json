@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T02:10:52Z",
+  "generated_at": "2026-11-25T02:16:54Z",
   "post_date": "2026-11-24",
   "posts": [
     {
@@ -417,23 +417,24 @@
         "Social Security benefits rise 3.6% in January 2027. The average retirement benefit goes up about $75 a month.",
         "The standard Medicare Part B premium rises to $209.40 a month, up $6.50 from $202.90.",
         "The Part B deductible rises to $292 (from $283). The Part A hospital deductible is $1,776 per benefit period.",
-        "COLA notices arrive in December by mail, unless your parent chose online notices in my Social Security."
+        "If your parent has a my Social Security account, the 2027 COLA notice is already in the Message Center. Paper notices arrive by mail in December."
       ],
       "verdict": "WORTH_KNOWING",
       "verdict_text": "Part B usually comes out of the Social Security check, so the raise your parent actually sees will be a little smaller than 3.6%. Higher-income beneficiaries pay more for Part B.",
       "actions": [
         "Check the new amount in my Social Security",
-        "Watch for the COLA notice in December",
+        "Paper COLA notices arrive by mail in December",
         "Free Medicare help: NJ SHIP, 1-800-792-8820"
       ],
       "not_before": "2026-12-03",
       "how_to_sources": [
         "https://www.ssa.gov/news/en/press/releases/2026-10-14.html",
         "https://public-inspection.federalregister.gov/2026-23601.pdf",
-        "https://public-inspection.federalregister.gov/2026-23603.pdf"
+        "https://public-inspection.federalregister.gov/2026-23603.pdf",
+        "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles"
       ],
       "source_doc": "https://www.ssa.gov/news/en/press/releases/2026-10-14.html; https://public-inspection.federalregister.gov/2026-23601.pdf; https://public-inspection.federalregister.gov/2026-23603.pdf",
-      "caption_rendered": "New year, new numbers. Social Security benefits rise 3.6% in January, and the standard Medicare Part B premium rises to $209.40 a month. Because Part B usually comes out of the Social Security check, the increase your parent actually sees will be a little smaller.\n\nSwipe for the 2027 figures and what to watch for in the mail.\n\nFree Medicare help in NJ: SHIP, 1-800-792-8820.\n\nSources: Social Security Administration, COLA announcement, Oct 14, 2026; CMS, 2027 Medicare Part B and Part A notices, Nov 17, 2026. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Medicare #SocialSecurity #COLA #AgingParents #NJCareCompass",
+      "caption_rendered": "New year, new numbers. Social Security benefits rise 3.6% in January, and the standard Medicare Part B premium rises to $209.40 a month. Because Part B usually comes out of the Social Security check, the increase your parent actually sees will be a little smaller.\n\nSwipe for the 2027 figures and where to find your parent's new benefit amount.\n\nFree Medicare help in NJ: SHIP, 1-800-792-8820.\n\nSources: Social Security Administration, COLA announcement, Oct 14, 2026; CMS, 2027 Medicare Part B and Part A notices, Nov 17, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Medicare #SocialSecurity #COLA #AgingParents #NJCareCompass",
       "source_type": "manual",
       "post_source": "posts/manual/2026-12-03_medicare-social-security-2027_post.json",
       "approved": true,
@@ -461,8 +462,8 @@
       "slide_count": 6,
       "has_slides": true,
       "media_error": "",
-      "instagram_caption": "New year, new numbers. Social Security benefits rise 3.6% in January, and the standard Medicare Part B premium rises to $209.40 a month. Because Part B usually comes out of the Social Security check, the increase your parent actually sees will be a little smaller.\n\nSwipe for the 2027 figures and what to watch for in the mail.\n\nFree Medicare help in NJ: SHIP, 1-800-792-8820.\n\nSources: Social Security Administration, COLA announcement, Oct 14, 2026; CMS, 2027 Medicare Part B and Part A notices, Nov 17, 2026. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Medicare #SocialSecurity #COLA #AgingParents #NJCareCompass",
-      "caption_sha256": "9284f6d8ff5b4b350e0b7824348d98fab0507cc5223d2636249f5490985252e1",
+      "instagram_caption": "New year, new numbers. Social Security benefits rise 3.6% in January, and the standard Medicare Part B premium rises to $209.40 a month. Because Part B usually comes out of the Social Security check, the increase your parent actually sees will be a little smaller.\n\nSwipe for the 2027 figures and where to find your parent's new benefit amount.\n\nFree Medicare help in NJ: SHIP, 1-800-792-8820.\n\nSources: Social Security Administration, COLA announcement, Oct 14, 2026; CMS, 2027 Medicare Part B and Part A notices, Nov 17, 2026. Last checked Nov 24, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Medicare #SocialSecurity #COLA #AgingParents #NJCareCompass",
+      "caption_sha256": "05e811584f617a8067185e118672a91d7eac6d4d1e8011baf4bc9b7b7831b0f5",
       "published": false,
       "publishable": true,
       "status": "queued",
