@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-25T23:37:35Z",
+  "generated_at": "2026-11-26T00:42:04Z",
   "post_date": "2026-11-25",
   "posts": [
     {
@@ -293,13 +293,16 @@
       "media_error": "",
       "instagram_caption": "New Jersey is under a state of emergency starting at 6 p.m. tonight. A powerful nor'easter is expected to bring 50 to 70 mph wind gusts, heavy rain and power outages, with the worst of it on Thanksgiving Day.\n\nIf your parent is older, lives alone, or depends on oxygen or other powered equipment, take a few minutes tonight: charge devices, gather medications, and agree on a plan if the lights go out.\n\nTravel isn't banned, but officials are asking everyone to stay off the roads during the storm. If you can't get there tonight, a phone call on Thursday is a good Thanksgiving too.\n\nReport outages: PSE&G 1-800-436-7734 · JCP&L 1-888-544-4877 · Orange & Rockland 1-877-434-4100. Local help: dial 211. Emergencies: 911.\n\nFor next time: NJ Register Ready lets people with disabilities or access and functional needs register with emergency officials. Sign up at registerready.nj.gov or dial 211.\n\nSources: Office of Gov. Mikie Sherrill, state of emergency (Executive Order No. 31), Nov 25, 2026; National Weather Service; NJ Board of Public Utilities, utility contacts; NJ Office of Emergency Management, Register Ready; USDA food safety guidance. Last checked Nov 25, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #NJStorm #Noreaster #StateOfEmergency #AgingParents #NJCareCompass",
       "caption_sha256": "4ed76b7102674471a03575b2007947e70fbadde7235586815f0e1bee8b65ebbe",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-25T23:04:12Z",
+      "instagram_post_id": "18474718672138542",
+      "instagram_permalink": "https://www.instagram.com/p/DgLqtXem6NQ/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "news"
     },
     {
@@ -1818,10 +1821,10 @@
     }
   ],
   "total": 24,
-  "queued_count": 16,
-  "published_count": 7,
+  "queued_count": 15,
+  "published_count": 8,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 3
+  "eligible_today_count": 2
 }
