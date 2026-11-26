@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Happy Thanksgiving)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Happy Thanksgiving from NJ Care Compass. The ones driving Mom to dinner, cutting Dad's turkey, and making a plate for the neighbor who couldn't come. The ones answering the same question twice with a smile, and the ones caring from far away with a phone call. Our verdict: why it helps. November is National Family Caregivers Month. If you're helping someone you love, you're a caregiver, and what you do counts. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #7C7CFF accent lighting looks at the
+camera and says: 'Happy Thanksgiving from NJ Care Compass. November is National Family Caregivers Month. If you're helping someone you love, you're a caregiver, and what you do counts.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.

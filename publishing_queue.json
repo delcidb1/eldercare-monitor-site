@@ -1,8 +1,76 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-26T16:44:44Z",
+  "generated_at": "2026-11-26T19:29:07Z",
   "post_date": "2026-11-26",
   "posts": [
+    {
+      "id": "2026-11-26_happy-thanksgiving",
+      "date": "2026-11-26",
+      "not_before": "2026-11-26",
+      "not_after": "2026-11-26",
+      "app": "Happy Thanksgiving",
+      "post_type": "guide",
+      "cover_label": "HAPPY THANKSGIVING",
+      "cover_query": "thanksgiving table candles autumn",
+      "effective": "Thanksgiving 2026",
+      "headline": "Happy Thanksgiving from NJ Care Compass",
+      "subhead": "To everyone caring for a parent, spouse or neighbor today: we're grateful for you.",
+      "changes_label": "TODAY WE'RE THANKFUL FOR",
+      "changes": [
+        "The ones driving Mom to dinner, cutting Dad's turkey, and making a plate for the neighbor who couldn't come.",
+        "The ones answering the same question twice with a smile, and the ones caring from far away with a phone call."
+      ],
+      "verdict": "WHY_IT_HELPS",
+      "verdict_label": "A NOTE FROM US",
+      "verdict_text": "November is National Family Caregivers Month. If you're helping someone you love, you're a caregiver, and what you do counts.",
+      "actions": [
+        "Enjoy the day, and rest if you can",
+        "Need help later? 877-222-3737 (your county ADRC)",
+        "Tomorrow: a space heater recall to check"
+      ],
+      "how_to_sources": [
+        "https://www.nj.gov/humanservices/doas/"
+      ],
+      "source_doc": "https://www.nj.gov/humanservices/doas/",
+      "caption_rendered": "Happy Thanksgiving from all of us at NJ Care Compass.\n\nA lot of people are doing quiet work today. They're driving Mom to dinner, cutting Dad's turkey, making a plate for the neighbor who couldn't come, and answering the same question twice with a smile. If that's you, thank you. November is National Family Caregivers Month, and what you do counts.\n\nEnjoy the day, and rest if you can. Tomorrow we'll post a space heater recall that's worth checking while you're visiting.\n\nIndependent, not a government office.\n\n#HappyThanksgiving #NJCaregivers #NorthJersey #FamilyCaregiversMonth #AgingParents #NJCareCompass",
+      "categories": [],
+      "actions_label": "TODAY AND BEYOND",
+      "source_type": "manual",
+      "post_source": "posts/manual/2026-11-26_happy-thanksgiving_post.json",
+      "approved": true,
+      "publish_to_site": true,
+      "priority": 98,
+      "caption_field": null,
+      "configured_slide_folder": "2026-11-26_happy-thanksgiving",
+      "slide_folder": "2026-11-26_happy-thanksgiving",
+      "media_urls": [
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_happy-thanksgiving/01_hook.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_happy-thanksgiving/02_changes.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_happy-thanksgiving/03_verdict.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_happy-thanksgiving/04_action.png",
+        "https://raw.githubusercontent.com/delcidb1/eldercare-monitor-site/main/slides/2026-11-26_happy-thanksgiving/05_outro.png"
+      ],
+      "media_files": [
+        "01_hook.png",
+        "02_changes.png",
+        "03_verdict.png",
+        "04_action.png",
+        "05_outro.png"
+      ],
+      "slide_count": 5,
+      "has_slides": true,
+      "media_error": "",
+      "instagram_caption": "Happy Thanksgiving from all of us at NJ Care Compass.\n\nA lot of people are doing quiet work today. They're driving Mom to dinner, cutting Dad's turkey, making a plate for the neighbor who couldn't come, and answering the same question twice with a smile. If that's you, thank you. November is National Family Caregivers Month, and what you do counts.\n\nEnjoy the day, and rest if you can. Tomorrow we'll post a space heater recall that's worth checking while you're visiting.\n\nIndependent, not a government office.\n\n#HappyThanksgiving #NJCaregivers #NorthJersey #FamilyCaregiversMonth #AgingParents #NJCareCompass",
+      "caption_sha256": "5199b251f156e9e8ca3756eec9ce57a036fb8a3e3815d0d030e26a9df47dfbbc",
+      "published": false,
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
+      "post_days": "any",
+      "eligible_today": true,
+      "lane": "scheduled"
+    },
     {
       "id": "2026-11-24_traveling-with-aging-parent",
       "date": "2026-11-24",
@@ -1720,11 +1788,11 @@
       "waiting_reason": "not_before:2026-12-15"
     }
   ],
-  "total": 23,
-  "queued_count": 14,
+  "total": 24,
+  "queued_count": 15,
   "published_count": 8,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }

@@ -576,6 +576,46 @@
     "published_at": ""
   },
   {
+    "id": "2026-11-26_happy-thanksgiving",
+    "app": "Happy Thanksgiving",
+    "post_type": "guide",
+    "headline": "Happy Thanksgiving from NJ Care Compass",
+    "subhead": "To everyone caring for a parent, spouse or neighbor today: we're grateful for you.",
+    "effective": "Thanksgiving 2026",
+    "changes": [
+      "The ones driving Mom to dinner, cutting Dad's turkey, and making a plate for the neighbor who couldn't come.",
+      "The ones answering the same question twice with a smile, and the ones caring from far away with a phone call."
+    ],
+    "verdict": "WHY_IT_HELPS",
+    "verdict_text": "November is National Family Caregivers Month. If you're helping someone you love, you're a caregiver, and what you do counts.",
+    "actions": [
+      "Enjoy the day, and rest if you can",
+      "Need help later? 877-222-3737 (your county ADRC)",
+      "Tomorrow: a space heater recall to check"
+    ],
+    "categories": [],
+    "source_doc": "https://www.nj.gov/humanservices/doas/",
+    "date": "2026-11-26",
+    "slide_folder": "2026-11-26_happy-thanksgiving",
+    "slide_count": 5,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_verdict.png",
+      "04_action.png",
+      "05_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/manual/2026-11-26_happy-thanksgiving_post.json",
+    "effective_date": "2026-11-26",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-25_thanksgiving-what-to-notice",
     "app": "Holiday Visits",
     "post_type": "guide",
