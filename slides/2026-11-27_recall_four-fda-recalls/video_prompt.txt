@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (FDA Recalls)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Four FDA recalls to know. Supplement: UMARY Acido Hialuronico (hyaluronic acid) 850 mg capsules, sold online by IBeautiStore.com. FDA tests found three prescription drugs not on the label. The hidden drugs: dexamethasone (a steroid), diclofenac (a pain reliever) and omeprazole. Taken it for weeks? Call the doctor before stopping: steroids shouldn't always stop suddenly. Sleep apnea machine: 3B Medical Luna G3 BPAP, model LG3800-30VT. 12,672 units sold nationwide. With the Targeted VT setting on, it reports the pressure it was set to, not what it actually delivered. Don't stop therapy: call the equipment supplier and the doctor. Hospital anesthetic: Brevital Sodium (methohexital) 500 mg vials from Par Health. Particles (cellulose) found inside; 20,567 vials shipped in the U.S. and Canada. Hospital kits: Cardinal Health Presource kits containing BD Alaris pump infusion sets. Shipped to California, Texas and North Carolina only. You can't buy the Brevital vials or the Cardinal kits. They're used by hospitals and clinics, which get recall notices directly. If your parent has a procedure coming up, it's fair to ask whether the facility has checked its recalls. Our verdict: important. All four are Class I, the FDA's most serious recall level, for products that could cause serious health problems. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #DC2626 accent lighting looks at the
+camera and says: 'Four FDA recalls to know. All four are Class I, the FDA's most serious recall level, for products that could cause serious health problems.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.
