@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Cardinal Health 200)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Cardinal Health Presource PBDS Kits Recalled. Recall covers Cardinal Health Presource PBDS kits containing BD Alaris Pump Infusion Sets. Kits used with BD Alaris Pump Module Model 8100. Reason: notification of performance disclosures of kit component. Our verdict: important. Anyone using these infusion kits in CA, TX, or NC should check catalog numbers and contact their care team immediately. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #EA580C accent lighting looks at the
+camera and says: 'Cardinal Health Presource PBDS Kits Recalled. Anyone using these infusion kits in CA, TX, or NC should check catalog numbers and contact their care team immediately.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.

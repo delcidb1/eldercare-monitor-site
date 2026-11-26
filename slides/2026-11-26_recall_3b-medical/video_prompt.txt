@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (3B Medical)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+3B Medical Recalls Luna G3 BPAP System. The configured IPAP value is recorded and transmitted instead of the actual delivered inspiratory pressure. The error occurs when Targeted VT is enabled on the device. Recall covers 12,672 units distributed nationwide, including Puerto Rico. Our verdict: important. Adults using the Luna G3 BPAP System for obstructive sleep apnea should check if their device is affected. Do not stop therapy without speaking to your doctor. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #EA580C accent lighting looks at the
+camera and says: '3B Medical Recalls Luna G3 BPAP System. Adults using the Luna G3 BPAP System for obstructive sleep apnea should check if their device is affected. Do not stop therapy without speaking to your doctor.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.
