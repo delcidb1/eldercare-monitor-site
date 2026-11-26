@@ -576,6 +576,50 @@
     "published_at": ""
   },
   {
+    "id": "2026-11-26_recall_cardinal-health-200",
+    "app": "Cardinal Health 200",
+    "doc": "Medical device recall",
+    "post_type": "recall",
+    "accent": "#EA580C",
+    "headline": "Cardinal Health Presource PBDS Kits Recalled",
+    "subhead": "Class I recall affects infusion set kits in three states",
+    "effective": "Announced November 18, 2026",
+    "changes": [
+      "Recall covers Cardinal Health Presource PBDS kits containing BD Alaris Pump Infusion Sets.",
+      "Kits used with BD Alaris Pump Module Model 8100.",
+      "Reason: notification of performance disclosures of kit component."
+    ],
+    "verdict": "IMPORTANT",
+    "verdict_text": "Anyone using these infusion kits in CA, TX, or NC should check catalog numbers and contact their care team immediately.",
+    "actions": [
+      "Check your kit catalog numbers against those listed in this recall.",
+      "Do not stop or change infusion treatment without first asking your doctor or pharmacist.",
+      "Contact Cardinal Health or your healthcare facility for guidance on affected kits."
+    ],
+    "categories": [],
+    "source_doc": "https://www.accessdata.fda.gov/scripts/ires/index.cfm",
+    "date": "2026-11-26",
+    "slide_folder": "2026-11-26_recall_cardinal-health-200",
+    "slide_count": 6,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_verdict.png",
+      "05_action.png",
+      "06_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/recalls/2026-11-26_recall_cardinal-health-200_post.json",
+    "effective_date": "2026-11-26",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-26_happy-thanksgiving",
     "app": "Happy Thanksgiving",
     "post_type": "guide",

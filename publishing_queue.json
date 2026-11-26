@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-26T22:27:32Z",
+  "generated_at": "2026-11-26T22:31:37Z",
   "post_date": "2026-11-26",
   "posts": [
     {
@@ -512,10 +512,13 @@
         "olderadults",
         "patientSafety"
       ],
-      "approved": false,
-      "draft": true,
+      "approved": true,
+      "draft": false,
       "approval_note": "AI-drafted from the recall record; bullets passed the grounding guard. Recall posts always need approval - open the source link first.",
       "caption_rendered": "Cardinal Health 200 has issued a Class I recall — the most serious type — for certain Presource PBDS kits containing BD Alaris Pump Infusion Sets used with the BD Alaris Pump Module Model 8100. The recall affects kits distributed in California, Texas, and North Carolina. The reason given is a notification of performance disclosures of a kit component. If you or a loved one receives infusion therapy using these kits, check the catalog numbers on your supplies and speak with your healthcare provider or facility right away. Do not adjust or stop any treatment on your own. Source: FDA Medical Device Enforcement Report, Recall Numbers Z-0330-2027 and Z-0329-2027.\n\n#recallalert #medicaldevicerecall #infusiontherapy #CardinalHealth #FDArecall #caregiversupport #olderadults #patientSafety #NJCareCompass",
+      "publish_to_site": true,
+      "approved_at": "2026-11-26T22:31:37+00:00",
+      "approved_via": "email",
       "source_type": "recall",
       "post_source": "posts/recalls/2026-11-26_recall_cardinal-health-200_post.json",
       "slide_folder": "2026-11-26_recall_cardinal-health-200",
@@ -542,12 +545,12 @@
       "instagram_caption": "Cardinal Health 200 has issued a Class I recall — the most serious type — for certain Presource PBDS kits containing BD Alaris Pump Infusion Sets used with the BD Alaris Pump Module Model 8100. The recall affects kits distributed in California, Texas, and North Carolina. The reason given is a notification of performance disclosures of a kit component. If you or a loved one receives infusion therapy using these kits, check the catalog numbers on your supplies and speak with your healthcare provider or facility right away. Do not adjust or stop any treatment on your own. Source: FDA Medical Device Enforcement Report, Recall Numbers Z-0330-2027 and Z-0329-2027.\n\n#recallalert #medicaldevicerecall #infusiontherapy #CardinalHealth #FDArecall #caregiversupport #olderadults #patientSafety #NJCareCompass",
       "caption_sha256": "8d8ed897295831f11f67e317f87ac9f73663b62d094f7e8a671901574f1a4c7b",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
+      "eligible_today": true,
       "lane": "news"
     },
     {
@@ -1966,10 +1969,10 @@
     }
   ],
   "total": 26,
-  "queued_count": 15,
+  "queued_count": 16,
   "published_count": 8,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
-  "eligible_today_count": 1
+  "eligible_today_count": 2
 }
