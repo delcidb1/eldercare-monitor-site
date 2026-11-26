@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-26T22:39:01Z",
+  "generated_at": "2026-11-26T22:41:35Z",
   "post_date": "2026-11-26",
   "posts": [
     {
@@ -1829,10 +1829,12 @@
       "series_id": "benefits-explained",
       "series_title": "Benefits, Explained",
       "caption_rendered": "BENEFITS, EXPLAINED\n\nNew Jersey offers two state-funded programs that lower prescription drug costs for older adults and people with disabilities. PAAD is designed for those with lower incomes and caps copays at $5 for generics and $7 for brand-name drugs. Senior Gold, for those just above the PAAD income limit, charges $15 plus half the remaining cost but protects you with a yearly out-of-pocket cap. Both programs work alongside Medicare Part D, and assets are not counted for eligibility. If you are caring for an aging parent in Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, or Warren County, a quick call or online application could mean hundreds of dollars in savings. Source: NJ Division of Aging Services.\n\n#Medicare #SocialSecurity #MedicareTips #AgingParents #Retirement #NorthJersey #NJSeniors #NJCareCompass",
-      "approved": false,
-      "publish_to_site": false,
+      "approved": true,
+      "publish_to_site": true,
       "priority": 300,
-      "draft": true,
+      "draft": false,
+      "approved_at": "2026-11-26T22:41:34+00:00",
+      "approved_via": "email",
       "source_type": "evergreen",
       "post_source": "posts/evergreen/2026-11-26_benefits-explained_topic-benefits-explained-paad-vs-senior-gold_post.json",
       "slide_folder": "2026-11-26_benefits-explained_topic-benefits-explained-paad-vs-senior-gold",
@@ -1858,17 +1860,18 @@
       "instagram_caption": "BENEFITS, EXPLAINED\n\nNew Jersey offers two state-funded programs that lower prescription drug costs for older adults and people with disabilities. PAAD is designed for those with lower incomes and caps copays at $5 for generics and $7 for brand-name drugs. Senior Gold, for those just above the PAAD income limit, charges $15 plus half the remaining cost but protects you with a yearly out-of-pocket cap. Both programs work alongside Medicare Part D, and assets are not counted for eligibility. If you are caring for an aging parent in Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, or Warren County, a quick call or online application could mean hundreds of dollars in savings. Source: NJ Division of Aging Services.\n\n#Medicare #SocialSecurity #MedicareTips #AgingParents #Retirement #NorthJersey #NJSeniors #NJCareCompass",
       "caption_sha256": "1340d1894647fc81e9d35d744bdf136c9eafbb9f83aa77a8408ce7620bd248df",
       "published": false,
-      "publishable": false,
-      "status": "requires_review",
-      "instagram_status": "requires_review",
-      "site_status": "requires_review",
+      "publishable": true,
+      "status": "queued",
+      "instagram_status": "queued",
+      "site_status": "approved",
       "post_days": "any",
       "eligible_today": false,
-      "lane": "scheduled"
+      "lane": "scheduled",
+      "waiting_reason": "one_post_per_day"
     }
   ],
   "total": 25,
-  "queued_count": 15,
+  "queued_count": 16,
   "published_count": 8,
   "baseline_count": 0,
   "held_count": 0,
