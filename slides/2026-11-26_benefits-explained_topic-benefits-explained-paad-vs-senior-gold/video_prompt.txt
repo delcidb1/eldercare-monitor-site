@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (PAAD & Senior Gold)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+NJ's two drug programs: which one fits you. PAAD: NJ residents 65+, 2026 income under $54,943 (single)/$62,390 (married); $5 generic, $7 brand-name copays. Senior Gold: income $54,943–$64,943 (single) or $62,390–$72,390 (married); copay $15 + 50% of remaining cost. Senior Gold caps costs at $2,000 (single) or $3,000 (married); after that, you pay $15 per prescription. PAAD pays Part D premiums, deductibles, and donut hole gaps; Part D enrollment required if Medicare-eligible. Our verdict: why it helps. Either program can cut a parent's drug costs dramatically. Knowing which one fits your income is the first step to saving. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #C4B5FD accent lighting looks at the
+camera and says: 'NJ's two drug programs: which one fits you. Either program can cut a parent's drug costs dramatically. Knowing which one fits your income is the first step to saving.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
