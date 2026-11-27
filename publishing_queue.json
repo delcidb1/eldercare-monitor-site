@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-27T23:27:06Z",
+  "generated_at": "2026-11-27T23:33:22Z",
   "post_date": "2026-11-27",
   "posts": [
     {
@@ -780,7 +780,7 @@
         "Amazon Echo Show. Hands-free video calls and voice reminders. Echo Show 8: $100 (reg. $200). Echo Show 11: $155 (reg. $250). Bigger screens are easier on older eyes.",
         "Ring Battery Doorbell 2K. See who's at the door before opening it, and screen out door-to-door scammers. $39 (reg. $100). Battery powered, no wiring.",
         "Aura Carver Mat photo frame. The family adds photos from their phones; Mom doesn't have to do a thing. $139 (reg. $179), sale through Dec 2.",
-        "Alarm pill organizer (e-pill MedGlider). Up to 4 daily alarms and a missed-dose light. No Wi-Fi or app. $39.95 (reg. $59.95). Have a pharmacist check the schedule before filling it.",
+        "Alarm pill organizer (MedGlider). From e-pill. Up to 4 daily alarms and a missed-dose light. No Wi-Fi or app. $39.95 (reg. $59.95). Have a pharmacist check the schedule before filling it.",
         "Motion-sensor night lights (GE, 2-pack). Warm light comes on when they get up at night. $19.99. Put them along the path to the bathroom.",
         "Reacher/grabber (Unger 32\" Nifty Nabber Plus). Picks up dropped things without bending or a step stool. $19.99. For light items only, not a cane.",
         "Upper-arm blood pressure monitor (OMRON 3 Series BP7150). On the ValidateBP list; no app needed. $59.99. Cuff fits 9\" to 17\" arms. Needs 4 AA batteries, not included.",
@@ -804,8 +804,21 @@
       "source_doc": "Retailer and deal listings, Nov 27, 2026: Amazon, Best Buy, Aura, e-pill, Walgreens, Farm & Home Supply; OMRON, ValidateBP; NCOA and AARP medical alert comparisons",
       "caption_rendered": "Black Friday gift idea for the parent who \"doesn't need anything\": something that keeps them safe at home and makes it easier to stay in touch.\n\nSwipe for 10 picks. Five are on sale this weekend: a medical alert with fall detection, a watch that can call for help, a video-calling screen, a doorbell camera to screen out scammers, and a photo frame the whole family can fill.\n\nFive more are everyday helpers under $60: an alarm pill organizer, motion night lights, a reacher, an upper-arm blood pressure monitor and a big day/date clock.\n\nThe most important tip: talk to them first. Gifts that help work best when your parent wants them.\n\nPrices checked Nov 27, 2026, and they change fast. Most deals run through Cyber Monday. Not sponsored. We don't earn anything if you buy.\n\nSources: Amazon, Best Buy, Aura, e-pill, Walgreens and Farm & Home Supply listings; NCOA and AARP medical alert comparisons. Independent, not a government office.\n\n#BlackFriday #AgingParents #NJCaregivers #NorthJersey #Caregiving #GiftIdeas #ElderCare #NJCareCompass",
       "categories": [],
-      "changes_label": "10 GIFTS THAT HELP",
+      "changes_label": "BLACK FRIDAY: 10 GIFTS",
       "changes_titles": true,
+      "change_tags": [
+        "BLACK FRIDAY DEAL",
+        "BLACK FRIDAY DEAL",
+        "BLACK FRIDAY DEAL",
+        "BLACK FRIDAY DEAL",
+        "BLACK FRIDAY DEAL",
+        "UNDER $60",
+        "UNDER $60",
+        "UNDER $60",
+        "UNDER $60",
+        "UNDER $60",
+        "START HERE"
+      ],
       "source_type": "recall",
       "post_source": "posts/recalls/2026-11-27_black-friday-gifts-aging-parents_post.json",
       "approved": true,
