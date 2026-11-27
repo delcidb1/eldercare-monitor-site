@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-27T03:15:55Z",
-  "post_date": "2026-11-26",
+  "generated_at": "2026-11-27T13:36:23Z",
+  "post_date": "2026-11-27",
   "posts": [
     {
       "id": "2026-11-26_happy-thanksgiving",
@@ -792,10 +792,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "scheduled_for": "2026-11-27",
-      "lane": "news",
-      "waiting_reason": "not_before:2026-11-27"
+      "eligible_today": true,
+      "lane": "news"
     },
     {
       "id": "2026-11-27_recall_two-fda-drug-recalls",
@@ -1185,10 +1183,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "scheduled_for": "2026-11-27",
-      "lane": "scheduled",
-      "waiting_reason": "not_before:2026-11-27"
+      "eligible_today": true,
+      "lane": "scheduled"
     },
     {
       "id": "2026-11-30_medicare-open-enrollment-one-week",
@@ -2271,7 +2267,7 @@
       "post_days": "any",
       "eligible_today": false,
       "lane": "scheduled",
-      "waiting_reason": "already_posted_today"
+      "waiting_reason": "one_post_per_day"
     }
   ],
   "total": 30,
@@ -2281,5 +2277,5 @@
   "held_count": 0,
   "expired_count": 0,
   "cancelled_count": 5,
-  "eligible_today_count": 0
+  "eligible_today_count": 2
 }
