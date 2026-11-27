@@ -14,7 +14,7 @@ VIDEO SCRIPT + PROMPTS for this post (Black Friday Gift Guide)
 Paste this prompt into Gemini:
 
 "A friendly tech news presenter in a modern studio with dark navy
-background and #E11D48 accent lighting looks at the
+background and #16A34A accent lighting looks at the
 camera and says: '5 gifts that actually help Mom & Dad. Ask first. A gift that feels like being watched stays in the box. Plan to set it up with them, check that they have home Wi-Fi, and add up any monthly fees.'
 Clean lighting, vertical 9:16 format, professional but approachable."
 
