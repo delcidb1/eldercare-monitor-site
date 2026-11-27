@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Medline Industries)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Medline Catheter Kit Wipes May Be Contaminated. Wipes may be contaminated with a lubricant used in the manufacturing process. Use of affected wipes may cause irritation, erythema, or mild inflammation. Failure to perform pericare may increase risk of catheter-associated urinary tract infection. Our verdict: worth knowing. Anyone using Medline catheter kit wipes in a home or care setting should check product codes and contact their provider. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #EA580C accent lighting looks at the
+camera and says: 'Medline Catheter Kit Wipes May Be Contaminated. Anyone using Medline catheter kit wipes in a home or care setting should check product codes and contact their provider.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.

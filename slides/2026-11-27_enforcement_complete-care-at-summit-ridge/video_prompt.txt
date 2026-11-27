@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Complete Care at Summit Ridge)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+Complete Care at Summit Ridge assessed $20,000 penalty. NJ Department of Health issued a Notice of Assessment of Penalties on November 25, 2026. Penalty amount stated: $20,000 against Complete Care at Summit Ridge, West Orange. Reason cited: repeat violations of NJ's minimum nursing home staffing law (N.J.S.A. 30:13-18). Facility may challenge findings through Informal Dispute Resolution. Our verdict: important. Repeat staffing violations at a West Orange nursing home resulted in a $20,000 state penalty assessment. The facility may still contest these findings. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #B91C1C accent lighting looks at the
+camera and says: 'Complete Care at Summit Ridge assessed $20,000 penalty. Repeat staffing violations at a West Orange nursing home resulted in a $20,000 state penalty assessment. The facility may still contest these findings.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the official source.
