@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-27T16:36:01Z",
+  "generated_at": "2026-11-27T16:36:23Z",
   "post_date": "2026-11-27",
   "posts": [
     {
@@ -788,8 +788,8 @@
       "caption_sha256": "cc0917db47e9f82de00eae7b28e31ac96735e3e61b30cca6c17c9587dd991720",
       "published": true,
       "published_at": "2026-11-27T14:06:56Z",
-      "instagram_post_id": "18123714598767026",
       "instagram_permalink": "https://www.instagram.com/p/DgP20GpFJgq/",
+      "instagram_post_id": "18123714598767026",
       "publishable": false,
       "status": "published",
       "instagram_status": "published",
