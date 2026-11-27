@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-27T21:11:33Z",
+  "generated_at": "2026-11-27T21:31:44Z",
   "post_date": "2026-11-27",
   "posts": [
     {
@@ -769,8 +769,8 @@
       "not_after": "2026-11-28",
       "app": "Black Friday Gift Guide",
       "post_type": "deals",
-      "accent": "#D4AF37",
-      "cover_query": "gift box christmas lights",
+      "accent": "#E11D48",
+      "cover_query": "christmas gift boxes bokeh",
       "effective": "Prices checked Nov 27, 2026",
       "headline": "5 gifts that actually help Mom & Dad",
       "subhead": "Safety, connection and peace of mind for you both.",
