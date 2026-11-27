@@ -609,14 +609,14 @@
       "04_action.png",
       "05_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/manual/2026-11-26_happy-thanksgiving_post.json",
     "effective_date": "2026-11-26",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DgOXj4_G9iS/",
+    "instagram_post_id": "18095553317222125",
+    "published_at": "2026-11-27T00:15:56Z"
   },
   {
     "id": "2026-11-26_benefits-explained_topic-benefits-explained-paad-vs-senior-gold",
