@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-27T16:44:57Z",
+  "generated_at": "2026-11-27T19:36:15Z",
   "post_date": "2026-11-27",
   "posts": [
     {
@@ -1180,13 +1180,16 @@
       "media_error": "",
       "instagram_caption": "If your parent keeps a small heater by the chair or bed, check it this weekend. DREO is recalling about 338,800 DR-HSH015 space heaters because they can overheat and ignite.\n\nFlip the heater over: if the model is DR-HSH015 and the date code is between 2025/04 and 2026/01, stop using it and contact DREO for a free replacement.\n\nFor any space heater this winter: plug it straight into the wall (not an extension cord), keep it 3 feet from beds, curtains and papers, turn it off when leaving the room or going to sleep, and make sure smoke alarms work.\n\nSource: U.S. Consumer Product Safety Commission, DREO space heater recall, Oct 29, 2026. Last checked Nov 23, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Recall #SpaceHeater #HomeSafety #AgingParents #NJCareCompass",
       "caption_sha256": "85a9d30052feb2482ef794a790a5b42194d42cd2086ba761731a5bcf172f5e87",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-27T17:06:55Z",
+      "instagram_post_id": "18118354676152996",
+      "instagram_permalink": "https://www.instagram.com/p/DgQLZxxmx-W/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "scheduled"
     },
     {
@@ -2270,15 +2273,15 @@
       "post_days": "any",
       "eligible_today": false,
       "lane": "scheduled",
-      "waiting_reason": "one_post_per_day"
+      "waiting_reason": "already_posted_today"
     }
   ],
   "total": 30,
-  "queued_count": 14,
-  "published_count": 10,
+  "queued_count": 13,
+  "published_count": 11,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
   "cancelled_count": 5,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }

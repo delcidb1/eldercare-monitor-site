@@ -569,14 +569,14 @@
       "05_action.png",
       "06_outro.png"
     ],
-    "published": false,
+    "published": true,
     "post_source": "posts/manual/2026-11-27_dreo-space-heater-recall_post.json",
     "effective_date": "2026-11-27",
     "site_status": "approved",
-    "instagram_status": "queued",
-    "instagram_permalink": "",
-    "instagram_post_id": "",
-    "published_at": ""
+    "instagram_status": "published",
+    "instagram_permalink": "https://www.instagram.com/p/DgQLZxxmx-W/",
+    "instagram_post_id": "18118354676152996",
+    "published_at": "2026-11-27T17:06:55Z"
   },
   {
     "id": "2026-11-26_happy-thanksgiving",
