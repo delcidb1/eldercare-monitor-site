@@ -579,6 +579,53 @@
     "published_at": "2026-11-27T17:06:55Z"
   },
   {
+    "id": "2026-11-27_black-friday-gifts-aging-parents",
+    "app": "Black Friday Gift Guide",
+    "post_type": "deals",
+    "accent": "#D4AF37",
+    "headline": "5 gifts that actually help Mom & Dad",
+    "subhead": "Safety, connection and peace of mind for you both.",
+    "effective": "Prices checked Nov 27, 2026",
+    "changes": [
+      "Medical alert with fall detection. Calls for help after a fall. Bay Alarm Medical: up to 50% off select plans plus a free month. Medical Guardian: free Guardian Flex equipment, code NCOAFREE.",
+      "Apple Watch SE 3. Fall detection and Emergency SOS on the wrist. $179 for 40mm (reg. $249), $209 for 44mm (reg. $279). Needs an iPhone to set up.",
+      "Amazon Echo Show. Hands-free video calls and voice reminders. Echo Show 8: $100 (reg. $200). Echo Show 11: $155 (reg. $250). Bigger screens are easier on older eyes.",
+      "Ring Battery Doorbell 2K. See who's at the door before opening it, and screen out door-to-door scammers. $39 (reg. $100). Battery powered, no wiring.",
+      "Aura Carver Mat photo frame. The family adds photos from their phones; Mom doesn't have to do a thing. $139 (reg. $179), sale through Dec 2.",
+      "Living alone? Start with the medical alert. Check its monthly fee: it costs more over time than the device."
+    ],
+    "verdict": "WHY_IT_HELPS",
+    "verdict_text": "Ask first. A gift that feels like being watched stays in the box. Plan to set it up with them, check that they have home Wi-Fi, and add up any monthly fees.",
+    "actions": [
+      "Most deals run through Cyber Monday, Nov 30",
+      "Prices change fast: check at checkout",
+      "Not sponsored. No affiliate links."
+    ],
+    "categories": [],
+    "source_doc": "Retailer and deal listings, Nov 27, 2026: Amazon, Best Buy, Aura; NCOA and AARP medical alert comparisons",
+    "date": "2026-11-27",
+    "slide_folder": "2026-11-27_black-friday-gifts-aging-parents",
+    "slide_count": 7,
+    "has_slides": true,
+    "media_files": [
+      "01_hook.png",
+      "02_changes.png",
+      "03_changes.png",
+      "04_changes.png",
+      "05_verdict.png",
+      "06_action.png",
+      "07_outro.png"
+    ],
+    "published": false,
+    "post_source": "posts/recalls/2026-11-27_black-friday-gifts-aging-parents_post.json",
+    "effective_date": "2026-11-27",
+    "site_status": "approved",
+    "instagram_status": "queued",
+    "instagram_permalink": "",
+    "instagram_post_id": "",
+    "published_at": ""
+  },
+  {
     "id": "2026-11-26_happy-thanksgiving",
     "app": "Happy Thanksgiving",
     "post_type": "guide",

@@ -1,0 +1,25 @@
+VIDEO SCRIPT + PROMPTS for this post (Black Friday Gift Guide)
+=====================================================
+
+--- SPOKEN SCRIPT (paste into HeyGen or read as voiceover) ---
+
+5 gifts that actually help Mom & Dad. Medical alert with fall detection. Calls for help after a fall. Bay Alarm Medical: up to 50% off select plans plus a free month. Medical Guardian: free Guardian Flex equipment, code NCOAFREE. Apple Watch SE 3. Fall detection and Emergency SOS on the wrist. $179 for 40mm (reg. $249), $209 for 44mm (reg. $279). Needs an iPhone to set up. Amazon Echo Show. Hands-free video calls and voice reminders. Echo Show 8: $100 (reg. $200). Echo Show 11: $155 (reg. $250). Bigger screens are easier on older eyes. Ring Battery Doorbell 2K. See who's at the door before opening it, and screen out door-to-door scammers. $39 (reg. $100). Battery powered, no wiring. Aura Carver Mat photo frame. The family adds photos from their phones; Mom doesn't have to do a thing. $139 (reg. $179), sale through Dec 2. Living alone? Start with the medical alert. Check its monthly fee: it costs more over time than the device. Our verdict: why it helps. Ask first. A gift that feels like being watched stays in the box. Plan to set it up with them, check that they have home Wi-Fi, and add up any monthly fees. Full breakdown in the carousel - follow at N J care compass for the next change.
+
+--- OPTION A: HeyGen (recommended - free: 3 videos/month) ---
+1. heygen.com -> Create video -> AI Avatar
+2. Pick a presenter, paste the script above
+3. Portrait 9:16 for Reels. Generate, download, post.
+
+--- OPTION B: Gemini / Veo (short cinematic clip, ~8s) ---
+Paste this prompt into Gemini:
+
+"A friendly tech news presenter in a modern studio with dark navy
+background and #D4AF37 accent lighting looks at the
+camera and says: '5 gifts that actually help Mom & Dad. Ask first. A gift that feels like being watched stays in the box. Plan to set it up with them, check that they have home Wi-Fi, and add up any monthly fees.'
+Clean lighting, vertical 9:16 format, professional but approachable."
+
+--- OPTION C: Voiceover Reel (no AI person) ---
+Record yourself (or a TTS voice) reading the spoken script over the
+slide images in CapCut. Export 9:16, no watermark.
+
+Review before publishing: verify every claim against the diff.
