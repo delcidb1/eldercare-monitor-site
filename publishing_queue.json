@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-27T13:45:12Z",
+  "generated_at": "2026-11-27T16:36:01Z",
   "post_date": "2026-11-27",
   "posts": [
     {
@@ -786,13 +786,16 @@
       "priority": 100,
       "instagram_caption": "Four Class I recalls, the FDA's most serious level. Two could be in your parent's home. Two are hospital products worth knowing about.\n\nUMARY Acido Hialuronico 850 mg capsules, sold online by IBeautiStore.com, contain prescription drugs that aren't on the label: dexamethasone, a steroid; diclofenac, a pain reliever; and omeprazole. If your parent has been taking it, call their doctor or pharmacist, especially before stopping if they've used it for weeks.\n\n3B Medical's Luna G3 BPAP sleep apnea machine (model LG3800-30VT) can report the pressure it was set to instead of what it actually delivered when the Targeted VT setting is on. Don't stop therapy. Call the equipment supplier and the doctor.\n\nPar Health is recalling 20,567 vials of the anesthetic Brevital Sodium after particles were found inside, and Cardinal Health is recalling procedure kits with BD Alaris infusion sets shipped to California, Texas and North Carolina. Families can't buy either one, but if your parent has a procedure coming up, it's fine to ask whether the facility checked its recalls.\n\nSwipe for the details and what to do.\n\nSources: FDA Enforcement Reports, Recalls D-0189-2027 (Nov 18, 2026), Z-0409-2027 (Nov 18, 2026), D-0156-2027 (Oct 28, 2026), and Z-0329-2027 and Z-0330-2027 (Nov 18, 2026). Last checked Nov 26, 2026. Independent, not a government office.\n\n#NJCaregivers #NorthJersey #Recall #FDArecall #MedicationSafety #SleepApnea #AgingParents #NJCareCompass",
       "caption_sha256": "cc0917db47e9f82de00eae7b28e31ac96735e3e61b30cca6c17c9587dd991720",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-27T14:06:56Z",
+      "instagram_post_id": "18123714598767026",
+      "instagram_permalink": "https://www.instagram.com/p/DgP20GpFJgq/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "news"
     },
     {
@@ -2271,11 +2274,11 @@
     }
   ],
   "total": 30,
-  "queued_count": 15,
-  "published_count": 9,
+  "queued_count": 14,
+  "published_count": 10,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
   "cancelled_count": 5,
-  "eligible_today_count": 2
+  "eligible_today_count": 1
 }
