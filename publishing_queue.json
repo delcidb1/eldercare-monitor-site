@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-28T02:57:05Z",
-  "post_date": "2026-11-27",
+  "generated_at": "2026-11-28T13:36:30Z",
+  "post_date": "2026-11-28",
   "posts": [
     {
       "id": "2026-11-26_happy-thanksgiving",
@@ -2807,9 +2807,8 @@
       "instagram_status": "queued",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": false,
-      "lane": "scheduled",
-      "waiting_reason": "already_posted_today"
+      "eligible_today": true,
+      "lane": "scheduled"
     }
   ],
   "total": 35,
@@ -2819,5 +2818,5 @@
   "held_count": 0,
   "expired_count": 0,
   "cancelled_count": 5,
-  "eligible_today_count": 0
+  "eligible_today_count": 1
 }
