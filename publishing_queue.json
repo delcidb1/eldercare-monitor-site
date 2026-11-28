@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-11-28T13:45:10Z",
+  "generated_at": "2026-11-28T16:35:57Z",
   "post_date": "2026-11-28",
   "posts": [
     {
@@ -2801,22 +2801,25 @@
       "media_error": "",
       "instagram_caption": "BENEFITS, EXPLAINED\n\nNew Jersey offers two state-funded programs that lower prescription drug costs for older adults and people with disabilities. PAAD is designed for those with lower incomes and caps copays at $5 for generics and $7 for brand-name drugs. Senior Gold, for those just above the PAAD income limit, charges $15 plus half the remaining cost but protects you with a yearly out-of-pocket cap. Both programs work alongside Medicare Part D, and assets are not counted for eligibility. If you are caring for an aging parent in Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union, or Warren County, a quick call or online application could mean hundreds of dollars in savings. Source: NJ Division of Aging Services.\n\n#Medicare #SocialSecurity #MedicareTips #AgingParents #Retirement #NorthJersey #NJSeniors #NJCareCompass",
       "caption_sha256": "1340d1894647fc81e9d35d744bdf136c9eafbb9f83aa77a8408ce7620bd248df",
-      "published": false,
-      "publishable": true,
-      "status": "queued",
-      "instagram_status": "queued",
+      "published": true,
+      "published_at": "2026-11-28T14:07:30Z",
+      "instagram_post_id": "18122564810070158",
+      "instagram_permalink": "https://www.instagram.com/p/DgSbrDzmzK9/",
+      "publishable": false,
+      "status": "published",
+      "instagram_status": "published",
       "site_status": "approved",
       "post_days": "any",
-      "eligible_today": true,
+      "eligible_today": false,
       "lane": "scheduled"
     }
   ],
   "total": 35,
-  "queued_count": 13,
-  "published_count": 12,
+  "queued_count": 12,
+  "published_count": 13,
   "baseline_count": 0,
   "held_count": 0,
   "expired_count": 0,
   "cancelled_count": 5,
-  "eligible_today_count": 1
+  "eligible_today_count": 0
 }
